@@ -1,0 +1,3723 @@
+[
+  {
+    "term_en": "Four Noble Truths",
+    "term_sanskrit": "catvāri āryasatyāni",
+    "term_pali": "cattāri ariyasaccāni",
+    "term_tibetan": "bden pa bzhi",
+    "term_chinese": "四聖諦",
+    "category": "doctrine",
+    "definition": "The foundational teaching of Buddhism: suffering exists, suffering has a cause (craving), suffering can cease, and there is a path to cessation. This framework forms the basis of Buddhist soteriology."
+  },
+  {
+    "term_en": "Noble Eightfold Path",
+    "term_sanskrit": "āryāṣṭāṅgamārga",
+    "term_pali": "ariya aṭṭhaṅgika magga",
+    "term_tibetan": "lam yan lag brgyad",
+    "term_chinese": "八正道",
+    "category": "path",
+    "definition": "The path to liberation consisting of right view, intention, speech, action, livelihood, effort, mindfulness, and concentration. It represents the practical method for ending suffering."
+  },
+  {
+    "term_en": "Dependent Origination",
+    "term_sanskrit": "pratītyasamutpāda",
+    "term_pali": "paṭiccasamuppāda",
+    "term_tibetan": "rten 'brel",
+    "term_chinese": "緣起",
+    "category": "doctrine",
+    "definition": "The principle that all phenomena arise in dependence upon causes and conditions, with nothing existing independently. Central to Buddhist ontology and the understanding of causality."
+  },
+  {
+    "term_en": "Emptiness",
+    "term_sanskrit": "śūnyatā",
+    "term_pali": "suññatā",
+    "term_tibetan": "stong pa nyid",
+    "term_chinese": "空",
+    "category": "philosophy",
+    "definition": "The absence of inherent existence or intrinsic nature in all phenomena. A core Mahayana doctrine particularly emphasized in Madhyamaka philosophy."
+  },
+  {
+    "term_en": "Impermanence",
+    "term_sanskrit": "anitya",
+    "term_pali": "anicca",
+    "term_tibetan": "mi rtag pa",
+    "term_chinese": "無常",
+    "category": "doctrine",
+    "definition": "The constant change and transience of all conditioned phenomena. One of the three marks of existence."
+  },
+  {
+    "term_en": "Suffering",
+    "term_sanskrit": "duḥkha",
+    "term_pali": "dukkha",
+    "term_tibetan": "sdug bsngal",
+    "term_chinese": "苦",
+    "category": "doctrine",
+    "definition": "Existential dissatisfaction, stress, or unsatisfactoriness inherent in conditioned existence. The first noble truth and one of the three marks of existence."
+  },
+  {
+    "term_en": "Non-self",
+    "term_sanskrit": "anātman",
+    "term_pali": "anattā",
+    "term_tibetan": "bdag med",
+    "term_chinese": "無我",
+    "category": "doctrine",
+    "definition": "The absence of a permanent, unchanging self or soul in persons and phenomena. The third mark of existence and a distinctive Buddhist teaching."
+  },
+  {
+    "term_en": "Nirvana",
+    "term_sanskrit": "nirvāṇa",
+    "term_pali": "nibbāna",
+    "term_tibetan": "mya ngan las 'das pa",
+    "term_chinese": "涅槃",
+    "category": "attainment",
+    "definition": "The cessation of suffering and liberation from cyclic existence achieved through the elimination of ignorance, craving, and aversion. The ultimate goal in Buddhist practice."
+  },
+  {
+    "term_en": "Samsara",
+    "term_sanskrit": "saṃsāra",
+    "term_pali": "saṃsāra",
+    "term_tibetan": "'khor ba",
+    "term_chinese": "輪迴",
+    "category": "cosmology",
+    "definition": "The cycle of birth, death, and rebirth characterized by suffering and driven by karma and mental afflictions. The state from which liberation is sought."
+  },
+  {
+    "term_en": "Karma",
+    "term_sanskrit": "karman",
+    "term_pali": "kamma",
+    "term_tibetan": "las",
+    "term_chinese": "業",
+    "category": "doctrine",
+    "definition": "Intentional action that produces consequences affecting future experiences and rebirths. The ethical principle of cause and effect governing existence."
+  },
+  {
+    "term_en": "Three Marks of Existence",
+    "term_sanskrit": "trilakṣaṇa",
+    "term_pali": "tilakkhaṇa",
+    "term_tibetan": "mtshan nyid gsum",
+    "term_chinese": "三法印",
+    "category": "doctrine",
+    "definition": "The three characteristics shared by all conditioned phenomena: impermanence, suffering, and non-self. Understanding these is essential to awakening."
+  },
+  {
+    "term_en": "Five Aggregates",
+    "term_sanskrit": "pañcaskandha",
+    "term_pali": "pañcakkhandhā",
+    "term_tibetan": "phung po lnga",
+    "term_chinese": "五蘊",
+    "category": "doctrine",
+    "definition": "The five components of experience: form, feeling, perception, mental formations, and consciousness. Buddhist analysis shows these contain no permanent self."
+  },
+  {
+    "term_en": "Twelve Links",
+    "term_sanskrit": "dvādaśāṅga",
+    "term_pali": "dvādasaṅga",
+    "term_tibetan": "rten 'brel yan lag bcu gnyis",
+    "term_chinese": "十二因緣",
+    "category": "doctrine",
+    "definition": "The twelve interdependent factors that perpetuate cyclic existence, from ignorance through aging and death. A detailed elaboration of dependent origination."
+  },
+  {
+    "term_en": "Middle Way",
+    "term_sanskrit": "madhyamāpratipad",
+    "term_pali": "majjhimā paṭipadā",
+    "term_tibetan": "dbu ma'i lam",
+    "term_chinese": "中道",
+    "category": "doctrine",
+    "definition": "The path between extremes of self-indulgence and self-mortification, and philosophically, between eternalism and nihilism. A core Buddhist principle."
+  },
+  {
+    "term_en": "Buddha-nature",
+    "term_sanskrit": "tathāgatagarbha",
+    "term_pali": null,
+    "term_tibetan": "de bzhin gshegs pa'i snying po",
+    "term_chinese": "如來藏",
+    "category": "doctrine",
+    "definition": "The inherent potential for awakening present in all sentient beings. A key Mahayana teaching emphasizing the positive basis for liberation."
+  },
+  {
+    "term_en": "Bodhicitta",
+    "term_sanskrit": "bodhicitta",
+    "term_pali": null,
+    "term_tibetan": "byang chub kyi sems",
+    "term_chinese": "菩提心",
+    "category": "doctrine",
+    "definition": "The mind of awakening or aspiration to achieve buddhahood for the benefit of all beings. The foundation of the Mahayana path."
+  },
+  {
+    "term_en": "Wisdom",
+    "term_sanskrit": "prajñā",
+    "term_pali": "paññā",
+    "term_tibetan": "shes rab",
+    "term_chinese": "般若",
+    "category": "doctrine",
+    "definition": "Penetrating insight into the true nature of reality, especially emptiness and dependent origination. One of the six perfections and essential for liberation."
+  },
+  {
+    "term_en": "Compassion",
+    "term_sanskrit": "karuṇā",
+    "term_pali": "karuṇā",
+    "term_tibetan": "snying rje",
+    "term_chinese": "悲",
+    "category": "doctrine",
+    "definition": "The wish for all beings to be free from suffering and its causes. Central to Mahayana ethics and the bodhisattva path."
+  },
+  {
+    "term_en": "Skillful Means",
+    "term_sanskrit": "upāya",
+    "term_pali": "upāya",
+    "term_tibetan": "thabs",
+    "term_chinese": "方便",
+    "category": "doctrine",
+    "definition": "Adaptive teaching methods suited to the capacities and needs of different beings. A key Mahayana concept explaining diversity in Buddhist teachings."
+  },
+  {
+    "term_en": "Three Bodies",
+    "term_sanskrit": "trikāya",
+    "term_pali": null,
+    "term_tibetan": "sku gsum",
+    "term_chinese": "三身",
+    "category": "doctrine",
+    "definition": "The three dimensions of buddhahood: truth body (dharmakaya), enjoyment body (sambhogakaya), and emanation body (nirmanakaya). A Mahayana doctrine of Buddha's nature."
+  },
+  {
+    "term_en": "Two Truths",
+    "term_sanskrit": "satyadvaya",
+    "term_pali": null,
+    "term_tibetan": "bden pa gnyis",
+    "term_chinese": "二諦",
+    "category": "philosophy",
+    "definition": "The distinction between conventional/relative truth and ultimate truth. A fundamental hermeneutical framework in Mahayana philosophy."
+  },
+  {
+    "term_en": "Three Jewels",
+    "term_sanskrit": "triratna",
+    "term_pali": "tiratana",
+    "term_tibetan": "dkon mchog gsum",
+    "term_chinese": "三寶",
+    "category": "doctrine",
+    "definition": "Buddha (awakened teacher), Dharma (teachings), and Sangha (community) as the objects of refuge. The foundation of Buddhist commitment."
+  },
+  {
+    "term_en": "Three Poisons",
+    "term_sanskrit": "triviṣa",
+    "term_pali": "tīṇi mūlāni",
+    "term_tibetan": "dug gsum",
+    "term_chinese": "三毒",
+    "category": "psychology",
+    "definition": "The root mental afflictions of greed/attachment, hatred/aversion, and ignorance/delusion. These perpetuate suffering and bind beings to samsara."
+  },
+  {
+    "term_en": "Meditation",
+    "term_sanskrit": "dhyāna",
+    "term_pali": "jhāna",
+    "term_tibetan": "bsam gtan",
+    "term_chinese": "禪定",
+    "category": "practice",
+    "definition": "Mental cultivation through concentrated attention and contemplation. The primary method for developing insight and liberation in Buddhism."
+  },
+  {
+    "term_en": "Calm Abiding",
+    "term_sanskrit": "śamatha",
+    "term_pali": "samatha",
+    "term_tibetan": "zhi gnas",
+    "term_chinese": "止",
+    "category": "practice",
+    "definition": "The development of stable, one-pointed concentration free from distraction. Forms the foundation for insight meditation."
+  },
+  {
+    "term_en": "Insight Meditation",
+    "term_sanskrit": "vipaśyanā",
+    "term_pali": "vipassanā",
+    "term_tibetan": "lhag mthong",
+    "term_chinese": "觀",
+    "category": "practice",
+    "definition": "Analytical meditation cultivating direct perception of impermanence, suffering, and non-self. The wisdom component that leads to liberation."
+  },
+  {
+    "term_en": "Zazen",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "坐禪",
+    "category": "practice",
+    "definition": "Seated meditation practice in Zen Buddhism, often characterized by objectless awareness and non-discursive presence. The core practice of Zen tradition."
+  },
+  {
+    "term_en": "Great Perfection",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "rdzogs chen",
+    "term_chinese": "大圓滿",
+    "category": "practice",
+    "definition": "Tibetan Buddhist contemplative system emphasizing the natural, primordial state of mind. The highest teaching in Nyingma tradition."
+  },
+  {
+    "term_en": "Great Seal",
+    "term_sanskrit": "mahāmudrā",
+    "term_pali": null,
+    "term_tibetan": "phyag rgya chen po",
+    "term_chinese": "大手印",
+    "category": "practice",
+    "definition": "Meditation system pointing to the ultimate nature of mind as luminous and empty. A key practice in Kagyu and other Tibetan traditions."
+  },
+  {
+    "term_en": "Sending and Taking",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gtong len",
+    "term_chinese": "自他交換",
+    "category": "practice",
+    "definition": "Meditation practice of visualizing taking others' suffering and giving one's own happiness. A method for developing compassion in Tibetan Buddhism."
+  },
+  {
+    "term_en": "Loving-kindness",
+    "term_sanskrit": "maitrī",
+    "term_pali": "mettā",
+    "term_tibetan": "byams pa",
+    "term_chinese": "慈",
+    "category": "practice",
+    "definition": "The cultivation of unconditional friendliness and benevolence toward all beings. One of the four immeasurables and a central meditation practice."
+  },
+  {
+    "term_en": "Mindfulness",
+    "term_sanskrit": "smṛti",
+    "term_pali": "sati",
+    "term_tibetan": "dran pa",
+    "term_chinese": "念",
+    "category": "practice",
+    "definition": "Present-moment awareness and retention of attention on meditation objects or activities. A crucial factor in the path to awakening."
+  },
+  {
+    "term_en": "Meditative Absorption",
+    "term_sanskrit": "samādhi",
+    "term_pali": "samādhi",
+    "term_tibetan": "ting nge 'dzin",
+    "term_chinese": "三昧",
+    "category": "practice",
+    "definition": "Deep states of meditative concentration characterized by unification of mind and stability. Essential for developing insight."
+  },
+  {
+    "term_en": "Madhyamaka",
+    "term_sanskrit": "madhyamaka",
+    "term_pali": null,
+    "term_tibetan": "dbu ma",
+    "term_chinese": "中觀",
+    "category": "philosophy",
+    "definition": "The Middle Way philosophical school founded by Nagarjuna, emphasizing emptiness and freedom from conceptual extremes. One of two major Mahayana philosophical systems."
+  },
+  {
+    "term_en": "Mind-Only",
+    "term_sanskrit": "yogācāra",
+    "term_pali": null,
+    "term_tibetan": "rnal 'byor spyod pa",
+    "term_chinese": "唯識",
+    "category": "philosophy",
+    "definition": "Mahayana school emphasizing consciousness and mental phenomena, teaching that experience is constructed by mind. Founded by Asanga and Vasubandhu.",
+    "aliases": [
+      "mind only",
+      "cittamātra",
+      "cittamatra",
+      "citta-mātra",
+      "citta-matra",
+      "yogacara",
+      "yogācāra school",
+      "yogacara school",
+      "sems tsam",
+      "唯识",
+      "瑜伽行派",
+      "瑜伽行",
+      "vijñānavāda",
+      "vijnanavada"
+    ]
+  },
+  {
+    "term_en": "Higher Teachings",
+    "term_sanskrit": "abhidharma",
+    "term_pali": "abhidhamma",
+    "term_tibetan": "chos mngon pa",
+    "term_chinese": "阿毘達磨",
+    "category": "philosophy",
+    "definition": "Systematic philosophical and psychological analysis of Buddhist teachings. Forms the third basket of the Buddhist canon."
+  },
+  {
+    "term_en": "Tetralemma",
+    "term_sanskrit": "catuṣkoṭi",
+    "term_pali": null,
+    "term_tibetan": "mu bzhi",
+    "term_chinese": "四句",
+    "category": "philosophy",
+    "definition": "Four-cornered logical system examining propositions as true, false, both, or neither. Used in Madhyamaka to deconstruct conceptual reification."
+  },
+  {
+    "term_en": "Consequentialist Reasoning",
+    "term_sanskrit": "prāsaṅgika",
+    "term_pali": null,
+    "term_tibetan": "thal 'gyur pa",
+    "term_chinese": "應成派",
+    "category": "philosophy",
+    "definition": "Madhyamaka sub-school that refutes opponents' positions through reductio ad absurdum without asserting positive theses. Associated with Candrakirti and Tibetan Gelug tradition."
+  },
+  {
+    "term_en": "Inherent Existence",
+    "term_sanskrit": "svabhāva",
+    "term_pali": "sabhāva",
+    "term_tibetan": "rang bzhin",
+    "term_chinese": "自性",
+    "category": "philosophy",
+    "definition": "The notion of intrinsic, independent nature that Madhyamaka philosophy refutes as the basis of emptiness. The target of ultimate analysis."
+  },
+  {
+    "term_en": "Dharma Theory",
+    "term_sanskrit": "dharma",
+    "term_pali": "dhamma",
+    "term_tibetan": "chos",
+    "term_chinese": "法",
+    "category": "philosophy",
+    "definition": "Abhidharma analysis of reality into irreducible momentary constituents. A pluralist ontology contrasting with Madhyamaka emptiness."
+  },
+  {
+    "term_en": "Momentariness",
+    "term_sanskrit": "kṣaṇikatva",
+    "term_pali": "khaṇika",
+    "term_tibetan": "skad cig ma",
+    "term_chinese": "刹那",
+    "category": "philosophy",
+    "definition": "The doctrine that all conditioned phenomena exist only for an instant before ceasing. An Abhidharma teaching on radical impermanence."
+  },
+  {
+    "term_en": "Two Hindrances",
+    "term_sanskrit": "dvayāvaraṇa",
+    "term_pali": null,
+    "term_tibetan": "sgrib pa gnyis",
+    "term_chinese": "二障",
+    "category": "philosophy",
+    "definition": "Afflictive obscurations preventing liberation and cognitive obscurations preventing omniscience. Removing both achieves full buddhahood."
+  },
+  {
+    "term_en": "Three Natures",
+    "term_sanskrit": "trisvabhāva",
+    "term_pali": null,
+    "term_tibetan": "rang bzhin gsum",
+    "term_chinese": "三性",
+    "category": "philosophy",
+    "definition": "Yogacara teaching distinguishing imagined nature, dependent nature, and perfected nature. A framework for understanding reality and delusion.",
+    "aliases": [
+      "three own-natures",
+      "three self-natures",
+      "trisvabhava",
+      "tri-svabhāva",
+      "three characteristics",
+      "三自性",
+      "imagined nature",
+      "dependent nature",
+      "perfected nature",
+      "parikalpita",
+      "paratantra",
+      "pariniṣpanna",
+      "parinispanna",
+      "kun brtags",
+      "gzhan dbang",
+      "yongs grub",
+      "遍計所執",
+      "依他起",
+      "圓成實"
+    ]
+  },
+  {
+    "term_en": "Ethical Conduct",
+    "term_sanskrit": "śīla",
+    "term_pali": "sīla",
+    "term_tibetan": "tshul khrims",
+    "term_chinese": "戒",
+    "category": "ethics",
+    "definition": "Moral discipline and restraint from harmful actions forming the foundation of Buddhist practice. One of the three trainings."
+  },
+  {
+    "term_en": "Five Precepts",
+    "term_sanskrit": "pañcaśīla",
+    "term_pali": "pañcasīla",
+    "term_tibetan": "bslab pa lnga",
+    "term_chinese": "五戒",
+    "category": "ethics",
+    "definition": "Basic ethical guidelines for lay Buddhists: refraining from killing, stealing, sexual misconduct, lying, and intoxication. The foundation of Buddhist lay ethics."
+  },
+  {
+    "term_en": "Bodhisattva Vow",
+    "term_sanskrit": "bodhisattvapranidhāna",
+    "term_pali": null,
+    "term_tibetan": "byang chub sems dpa'i sdom pa",
+    "term_chinese": "菩薩戒",
+    "category": "ethics",
+    "definition": "The commitment to achieve buddhahood for the benefit of all beings. The ethical foundation of Mahayana practice."
+  },
+  {
+    "term_en": "Monastic Discipline",
+    "term_sanskrit": "vinaya",
+    "term_pali": "vinaya",
+    "term_tibetan": "'dul ba",
+    "term_chinese": "律",
+    "category": "ethics",
+    "definition": "The body of rules governing monastic life and conduct. One of the three baskets of Buddhist scripture."
+  },
+  {
+    "term_en": "Non-harming",
+    "term_sanskrit": "ahiṃsā",
+    "term_pali": "ahiṃsā",
+    "term_tibetan": "rnam par mi 'tshe ba",
+    "term_chinese": "不害",
+    "category": "ethics",
+    "definition": "The principle of non-violence and avoiding harm to living beings. A foundational Buddhist ethical value."
+  },
+  {
+    "term_en": "Right Livelihood",
+    "term_sanskrit": "samyagājīva",
+    "term_pali": "sammā ājīva",
+    "term_tibetan": "yang dag pa'i 'tsho ba",
+    "term_chinese": "正命",
+    "category": "ethics",
+    "definition": "Earning a living through ethical means that don't harm others. The fifth factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Mind",
+    "term_sanskrit": "citta",
+    "term_pali": "citta",
+    "term_tibetan": "sems",
+    "term_chinese": "心",
+    "category": "psychology",
+    "definition": "The fundamental aspect of consciousness that cognizes objects and can be cultivated toward awakening. Subject of extensive Buddhist psychological analysis."
+  },
+  {
+    "term_en": "Mental Faculty",
+    "term_sanskrit": "manas",
+    "term_pali": "mano",
+    "term_tibetan": "yid",
+    "term_chinese": "意",
+    "category": "psychology",
+    "definition": "The thinking faculty or mental sense that processes information and generates thought. The sixth sense base in Buddhist psychology."
+  },
+  {
+    "term_en": "Storehouse Consciousness",
+    "term_sanskrit": "ālayavijñāna",
+    "term_pali": null,
+    "term_tibetan": "kun gzhi rnam shes",
+    "term_chinese": "阿賴耶識",
+    "category": "psychology",
+    "definition": "The foundational level of consciousness that stores karmic seeds and underlies experience. A key Yogacara concept explaining continuity."
+  },
+  {
+    "term_en": "Mental Factors",
+    "term_sanskrit": "caitasika",
+    "term_pali": "cetasika",
+    "term_tibetan": "sems byung",
+    "term_chinese": "心所",
+    "category": "psychology",
+    "definition": "Mental states that arise with and qualify consciousness, including feeling, perception, attention, and volition. Abhidharma enumerates fifty-two or more."
+  },
+  {
+    "term_en": "Mental Afflictions",
+    "term_sanskrit": "kleśa",
+    "term_pali": "kilesa",
+    "term_tibetan": "nyon mongs",
+    "term_chinese": "煩惱",
+    "category": "psychology",
+    "definition": "Disturbing emotions and attitudes that cause suffering and perpetuate cyclic existence. The primary obstacles to liberation."
+  },
+  {
+    "term_en": "Mental Formations",
+    "term_sanskrit": "saṃskāra",
+    "term_pali": "saṅkhāra",
+    "term_tibetan": "'du byed",
+    "term_chinese": "行",
+    "category": "psychology",
+    "definition": "Volitional mental activities and karmic formations. The fourth aggregate and second link of dependent origination."
+  },
+  {
+    "term_en": "Consciousness",
+    "term_sanskrit": "vijñāna",
+    "term_pali": "viññāṇa",
+    "term_tibetan": "rnam shes",
+    "term_chinese": "識",
+    "category": "psychology",
+    "definition": "Awareness that discerns objects through the six sense faculties. The fifth aggregate analyzed into multiple types in Abhidharma and Yogacara."
+  },
+  {
+    "term_en": "Stream-Enterer",
+    "term_sanskrit": "srotāpanna",
+    "term_pali": "sotāpanna",
+    "term_tibetan": "rgyun zhugs",
+    "term_chinese": "須陀洹",
+    "category": "attainment",
+    "definition": "First stage of awakening, having entered the stream to nirvana and eliminated doubt, attachment to rites, and view of self. Assured of at most seven more rebirths."
+  },
+  {
+    "term_en": "Once-Returner",
+    "term_sanskrit": "sakṛdāgāmin",
+    "term_pali": "sakadāgāmi",
+    "term_tibetan": "lan gcig phyir 'ong",
+    "term_chinese": "斯陀含",
+    "category": "attainment",
+    "definition": "Second stage of awakening, having greatly weakened sensual desire and aversion. Will be reborn in the human realm at most once more."
+  },
+  {
+    "term_en": "Non-Returner",
+    "term_sanskrit": "anāgāmin",
+    "term_pali": "anāgāmi",
+    "term_tibetan": "phyir mi 'ong",
+    "term_chinese": "阿那含",
+    "category": "attainment",
+    "definition": "Third stage of awakening, having eliminated sensual desire and aversion. Will not return to the human realm but attain nirvana in a higher rebirth."
+  },
+  {
+    "term_en": "Arhat",
+    "term_sanskrit": "arhat",
+    "term_pali": "arahant",
+    "term_tibetan": "dgra bcom pa",
+    "term_chinese": "阿羅漢",
+    "category": "attainment",
+    "definition": "One who has achieved liberation from cyclic existence through eliminating all afflictions and ignorance. The fourth and final stage in the Theravada path."
+  },
+  {
+    "term_en": "Bodhisattva",
+    "term_sanskrit": "bodhisattva",
+    "term_pali": "bodhisatta",
+    "term_tibetan": "byang chub sems dpa'",
+    "term_chinese": "菩薩",
+    "category": "path",
+    "definition": "A being committed to achieving full buddhahood for the benefit of all beings. The ideal practitioner in Mahayana Buddhism."
+  },
+  {
+    "term_en": "Solitary Realizer",
+    "term_sanskrit": "pratyekabuddha",
+    "term_pali": "paccekabuddha",
+    "term_tibetan": "rang sangs rgyas",
+    "term_chinese": "辟支佛",
+    "category": "attainment",
+    "definition": "One who achieves awakening independently without a teacher and doesn't teach others extensively. Considered superior to arhats but inferior to full buddhas."
+  },
+  {
+    "term_en": "Ten Grounds",
+    "term_sanskrit": "daśabhūmi",
+    "term_pali": null,
+    "term_tibetan": "sa bcu",
+    "term_chinese": "十地",
+    "category": "path",
+    "definition": "The ten progressive stages of bodhisattva development from first bhumi to near-buddhahood. Each stage is characterized by perfection of specific virtues."
+  },
+  {
+    "term_en": "Five Paths",
+    "term_sanskrit": "pañcamārga",
+    "term_pali": null,
+    "term_tibetan": "lam lnga",
+    "term_chinese": "五道",
+    "category": "path",
+    "definition": "The five progressive stages of spiritual development: accumulation, preparation, seeing, meditation, and no-more-learning. A systematic outline of the path in Mahayana."
+  },
+  {
+    "term_en": "Rainbow Body",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "'ja' lus",
+    "term_chinese": "虹身",
+    "category": "attainment",
+    "definition": "The dissolution of the physical body into light at death, leaving only hair and nails. A sign of realization in Dzogchen and tantric practice."
+  },
+  {
+    "term_en": "Six Realms",
+    "term_sanskrit": "ṣaḍgati",
+    "term_pali": null,
+    "term_tibetan": "'gro ba rigs drug",
+    "term_chinese": "六道",
+    "category": "cosmology",
+    "definition": "The realms of rebirth in samsara: hell beings, hungry ghosts, animals, humans, demigods, and gods. Each realm characterized by particular sufferings."
+  },
+  {
+    "term_en": "Three Worlds",
+    "term_sanskrit": "tridhātu",
+    "term_pali": "tiloka",
+    "term_tibetan": "khams gsum",
+    "term_chinese": "三界",
+    "category": "cosmology",
+    "definition": "The three levels of cyclic existence: desire realm, form realm, and formless realm. A cosmological framework for understanding rebirth states."
+  },
+  {
+    "term_en": "Aeon",
+    "term_sanskrit": "kalpa",
+    "term_pali": "kappa",
+    "term_tibetan": "bskal pa",
+    "term_chinese": "劫",
+    "category": "cosmology",
+    "definition": "An immeasurably long period of cosmic time in which worlds form and dissolve. Used to indicate vast temporal scales in Buddhist cosmology."
+  },
+  {
+    "term_en": "Mount Meru",
+    "term_sanskrit": "sumeru",
+    "term_pali": "sineru",
+    "term_tibetan": "ri rab",
+    "term_chinese": "須彌山",
+    "category": "cosmology",
+    "definition": "The cosmic mountain at the center of Buddhist cosmology, surrounded by continents and oceans. The axis mundi of traditional Buddhist world-systems."
+  },
+  {
+    "term_en": "Pure Land",
+    "term_sanskrit": "sukhāvatī",
+    "term_pali": null,
+    "term_tibetan": "bde ba can",
+    "term_chinese": "淨土",
+    "category": "cosmology",
+    "definition": "Buddha-fields free from suffering where beings can easily practice toward liberation. Particularly associated with Amitabha Buddha's western paradise."
+  },
+  {
+    "term_en": "Shakyamuni Buddha",
+    "term_sanskrit": "śākyamuni",
+    "term_pali": "sakya muni",
+    "term_tibetan": "sha kya thub pa",
+    "term_chinese": "釋迦牟尼佛",
+    "category": "person",
+    "definition": "The historical Buddha, Siddhartha Gautama, who lived in ancient India and founded Buddhism. The sage of the Shakya clan."
+  },
+  {
+    "term_en": "Nagarjuna",
+    "term_sanskrit": "nāgārjuna",
+    "term_pali": null,
+    "term_tibetan": "klu sgrub",
+    "term_chinese": "龍樹",
+    "category": "person",
+    "definition": "Second-century Indian philosopher who founded the Madhyamaka school and systematized the teaching of emptiness. One of the most influential Buddhist thinkers."
+  },
+  {
+    "term_en": "Vasubandhu",
+    "term_sanskrit": "vasubandhu",
+    "term_pali": null,
+    "term_tibetan": "dbyig gnyen",
+    "term_chinese": "世親",
+    "category": "person",
+    "definition": "Fourth-century Indian philosopher who contributed to both Abhidharma and Yogacara traditions. Brother of Asanga and author of important commentaries."
+  },
+  {
+    "term_en": "Tsongkhapa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "tsong kha pa",
+    "term_chinese": "宗喀巴",
+    "category": "person",
+    "definition": "Fourteenth-century Tibetan master who founded the Gelug tradition and wrote extensive commentaries on sutra and tantra. Major reformer of Tibetan Buddhism."
+  },
+  {
+    "term_en": "Dogen",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "道元",
+    "category": "person",
+    "definition": "Thirteenth-century Japanese master who founded Soto Zen and emphasized shikantaza (just sitting). Author of the Shobogenzo."
+  },
+  {
+    "term_en": "Bodhidharma",
+    "term_sanskrit": "bodhidharma",
+    "term_pali": null,
+    "term_tibetan": "byang chub chos",
+    "term_chinese": "菩提達摩",
+    "category": "person",
+    "definition": "Semi-legendary Indian monk who brought Chan/Zen Buddhism to China in the sixth century. Credited as the first patriarch of Chan."
+  },
+  {
+    "term_en": "Padmasambhava",
+    "term_sanskrit": "padmasambhava",
+    "term_pali": null,
+    "term_tibetan": "pad+ma 'byung gnas",
+    "term_chinese": "蓮花生",
+    "category": "person",
+    "definition": "Eighth-century Indian tantric master who established Buddhism in Tibet. Revered as the second Buddha in Nyingma tradition."
+  },
+  {
+    "term_en": "Asanga",
+    "term_sanskrit": "asaṅga",
+    "term_pali": null,
+    "term_tibetan": "thogs med",
+    "term_chinese": "無著",
+    "category": "person",
+    "definition": "Fourth-century Indian philosopher who founded the Yogacara school. Traditionally said to have received teachings from Maitreya."
+  },
+  {
+    "term_en": "Milarepa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "mi la ras pa",
+    "term_chinese": "密勒日巴",
+    "category": "person",
+    "definition": "Eleventh-century Tibetan yogi and poet who achieved enlightenment in one lifetime. Famous for his songs and devotion to his teacher Marpa."
+  },
+  {
+    "term_en": "Atisha",
+    "term_sanskrit": "atiśa",
+    "term_pali": null,
+    "term_tibetan": "a ti sha",
+    "term_chinese": "阿底峽",
+    "category": "person",
+    "definition": "Eleventh-century Indian master who revitalized Buddhism in Tibet and wrote the influential Lamp for the Path to Enlightenment. Founder of the Kadam tradition."
+  },
+  {
+    "term_en": "Discourse",
+    "term_sanskrit": "sūtra",
+    "term_pali": "sutta",
+    "term_tibetan": "mdo",
+    "term_chinese": "經",
+    "category": "text_genre",
+    "definition": "Buddhist scriptures recording the Buddha's teachings. The second basket of the Buddhist canon containing doctrinal and narrative material."
+  },
+  {
+    "term_en": "Tantra",
+    "term_sanskrit": "tantra",
+    "term_pali": null,
+    "term_tibetan": "rgyud",
+    "term_chinese": "密續",
+    "category": "text_genre",
+    "definition": "Esoteric Buddhist texts teaching advanced meditation and ritual practices. The scriptural basis for Vajrayana Buddhism."
+  },
+  {
+    "term_en": "Treatise",
+    "term_sanskrit": "śāstra",
+    "term_pali": null,
+    "term_tibetan": "bstan bcos",
+    "term_chinese": "論",
+    "category": "text_genre",
+    "definition": "Commentarial and philosophical works by later masters explicating Buddhist teachings. Distinguished from sutras as human rather than Buddha's word."
+  },
+  {
+    "term_en": "Heart Sutra",
+    "term_sanskrit": "prajñāpāramitāhṛdaya",
+    "term_pali": null,
+    "term_tibetan": "shes rab snying po",
+    "term_chinese": "心經",
+    "category": "text_genre",
+    "definition": "Concise Mahayana text teaching emptiness through the dialog between Avalokiteshvara and Shariputra. One of the most widely recited Buddhist texts."
+  },
+  {
+    "term_en": "Diamond Sutra",
+    "term_sanskrit": "vajracchedikā prajñāpāramitā",
+    "term_pali": null,
+    "term_tibetan": "rdo rje gcod pa",
+    "term_chinese": "金剛經",
+    "category": "text_genre",
+    "definition": "Mahayana perfection of wisdom text teaching non-attachment and emptiness. Known for the phrase about phenomena being like dreams and bubbles."
+  },
+  {
+    "term_en": "Lotus Sutra",
+    "term_sanskrit": "saddharmapuṇḍarīka",
+    "term_pali": null,
+    "term_tibetan": "dam chos pad+ma dkar po",
+    "term_chinese": "法華經",
+    "category": "text_genre",
+    "definition": "Influential Mahayana text teaching one vehicle, eternal Buddha, and universal buddha-nature. Central to East Asian Buddhism."
+  },
+  {
+    "term_en": "Perfection of Wisdom",
+    "term_sanskrit": "prajñāpāramitā",
+    "term_pali": null,
+    "term_tibetan": "shes rab pha rol phyin",
+    "term_chinese": "般若波羅蜜",
+    "category": "text_genre",
+    "definition": "Genre of Mahayana sutras teaching emptiness and the bodhisattva path. Includes texts from brief Heart Sutra to massive 100,000-verse versions."
+  },
+  {
+    "term_en": "Lankavatara Sutra",
+    "term_sanskrit": "laṅkāvatāra",
+    "term_pali": null,
+    "term_tibetan": "lang kar gshegs pa",
+    "term_chinese": "楞伽經",
+    "category": "text_genre",
+    "definition": "Mahayana text teaching Yogacara doctrines including storehouse consciousness. Important in Chan/Zen tradition."
+  },
+  {
+    "term_en": "Platform Sutra",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "六祖壇經",
+    "category": "text_genre",
+    "definition": "Teaching attributed to Huineng, the sixth Chan patriarch, emphasizing sudden enlightenment. The only Chinese text called a sutra."
+  },
+  {
+    "term_en": "Sangha",
+    "term_sanskrit": "saṅgha",
+    "term_pali": "saṅgha",
+    "term_tibetan": "dge 'dun",
+    "term_chinese": "僧伽",
+    "category": "institution",
+    "definition": "The Buddhist community, particularly the monastic order. One of the three jewels of refuge."
+  },
+  {
+    "term_en": "Monastery",
+    "term_sanskrit": "vihāra",
+    "term_pali": "vihāra",
+    "term_tibetan": "dgon pa",
+    "term_chinese": "寺",
+    "category": "institution",
+    "definition": "A residential community for Buddhist monastics dedicated to practice, study, and teaching. The institutional center of Buddhist tradition."
+  },
+  {
+    "term_en": "Six Perfections",
+    "term_sanskrit": "ṣaṭpāramitā",
+    "term_pali": null,
+    "term_tibetan": "pha rol tu phyin pa drug",
+    "term_chinese": "六波羅蜜",
+    "category": "doctrine",
+    "definition": "The six virtues cultivated by bodhisattvas: generosity, ethics, patience, diligence, meditation, and wisdom. The framework of Mahayana practice."
+  },
+  {
+    "term_en": "Generosity",
+    "term_sanskrit": "dāna",
+    "term_pali": "dāna",
+    "term_tibetan": "sbyin pa",
+    "term_chinese": "布施",
+    "category": "practice",
+    "definition": "The practice of giving material goods, teachings, or fearlessness. The first perfection and foundation of merit accumulation."
+  },
+  {
+    "term_en": "Patience",
+    "term_sanskrit": "kṣānti",
+    "term_pali": "khanti",
+    "term_tibetan": "bzod pa",
+    "term_chinese": "忍辱",
+    "category": "practice",
+    "definition": "Tolerance of harm, acceptance of suffering, and certainty in the teachings. The third perfection essential for bodhisattva practice."
+  },
+  {
+    "term_en": "Diligence",
+    "term_sanskrit": "vīrya",
+    "term_pali": "viriya",
+    "term_tibetan": "brtson 'grus",
+    "term_chinese": "精進",
+    "category": "practice",
+    "definition": "Enthusiastic perseverance and joyful effort in virtue. The fourth perfection necessary for completing the path."
+  },
+  {
+    "term_en": "Four Immeasurables",
+    "term_sanskrit": "catvāri apramāṇāni",
+    "term_pali": "cattāri brahmavihārā",
+    "term_tibetan": "tshad med bzhi",
+    "term_chinese": "四無量心",
+    "category": "practice",
+    "definition": "Loving-kindness, compassion, empathetic joy, and equanimity cultivated toward all beings. Key meditations for developing altruism."
+  },
+  {
+    "term_en": "Empathetic Joy",
+    "term_sanskrit": "muditā",
+    "term_pali": "muditā",
+    "term_tibetan": "dga' ba",
+    "term_chinese": "喜",
+    "category": "practice",
+    "definition": "Rejoicing in others' happiness and success without envy. The third immeasurable complementing compassion."
+  },
+  {
+    "term_en": "Equanimity",
+    "term_sanskrit": "upekṣā",
+    "term_pali": "upekkhā",
+    "term_tibetan": "btang snyoms",
+    "term_chinese": "捨",
+    "category": "practice",
+    "definition": "Impartial balance free from attachment and aversion. The fourth immeasurable that stabilizes the other three."
+  },
+  {
+    "term_en": "Four Noble Truths of the Path",
+    "term_sanskrit": "mārgasatya",
+    "term_pali": "maggasacca",
+    "term_tibetan": "lam bden",
+    "term_chinese": "道諦",
+    "category": "doctrine",
+    "definition": "The fourth noble truth: the path leading to cessation of suffering, specifically the Noble Eightfold Path. The practical method of liberation."
+  },
+  {
+    "term_en": "Truth of Cessation",
+    "term_sanskrit": "nirodhasatya",
+    "term_pali": "nirodhasacca",
+    "term_tibetan": "'gog bden",
+    "term_chinese": "滅諦",
+    "category": "doctrine",
+    "definition": "The third noble truth: cessation of suffering is possible through eliminating craving. The goal of Buddhist practice."
+  },
+  {
+    "term_en": "Truth of Origin",
+    "term_sanskrit": "samudayasatya",
+    "term_pali": "samudayasacca",
+    "term_tibetan": "kun 'byung bden",
+    "term_chinese": "集諦",
+    "category": "doctrine",
+    "definition": "The second noble truth: suffering originates from craving, aversion, and ignorance. The diagnosis of the problem."
+  },
+  {
+    "term_en": "Craving",
+    "term_sanskrit": "tṛṣṇā",
+    "term_pali": "taṇhā",
+    "term_tibetan": "sred pa",
+    "term_chinese": "渴愛",
+    "category": "psychology",
+    "definition": "Compulsive desire and thirst for pleasure, existence, or non-existence. The primary cause of suffering in the second noble truth."
+  },
+  {
+    "term_en": "Ignorance",
+    "term_sanskrit": "avidyā",
+    "term_pali": "avijjā",
+    "term_tibetan": "ma rig pa",
+    "term_chinese": "無明",
+    "category": "psychology",
+    "definition": "Fundamental misapprehension of reality, particularly regarding impermanence, suffering, and non-self. The root cause of cyclic existence."
+  },
+  {
+    "term_en": "Grasping",
+    "term_sanskrit": "upādāna",
+    "term_pali": "upādāna",
+    "term_tibetan": "nyer len",
+    "term_chinese": "取",
+    "category": "psychology",
+    "definition": "Clinging to sensual pleasures, views, rules, or self-doctrine. The ninth link in dependent origination intensifying craving."
+  },
+  {
+    "term_en": "Becoming",
+    "term_sanskrit": "bhava",
+    "term_pali": "bhava",
+    "term_tibetan": "srid pa",
+    "term_chinese": "有",
+    "category": "doctrine",
+    "definition": "The process of coming into existence or the karma that propels rebirth. The tenth link in dependent origination."
+  },
+  {
+    "term_en": "Birth",
+    "term_sanskrit": "jāti",
+    "term_pali": "jāti",
+    "term_tibetan": "skye ba",
+    "term_chinese": "生",
+    "category": "doctrine",
+    "definition": "The arising of the aggregates in a new life. The eleventh link in dependent origination following becoming."
+  },
+  {
+    "term_en": "Aging and Death",
+    "term_sanskrit": "jarāmaraṇa",
+    "term_pali": "jarāmaraṇa",
+    "term_tibetan": "rga shi",
+    "term_chinese": "老死",
+    "category": "doctrine",
+    "definition": "The inevitable decay and cessation of life. The twelfth and final link in dependent origination representing suffering's culmination."
+  },
+  {
+    "term_en": "Contact",
+    "term_sanskrit": "sparśa",
+    "term_pali": "phassa",
+    "term_tibetan": "reg pa",
+    "term_chinese": "觸",
+    "category": "psychology",
+    "definition": "The meeting of sense faculty, object, and consciousness. The sixth link in dependent origination that produces feeling."
+  },
+  {
+    "term_en": "Feeling",
+    "term_sanskrit": "vedanā",
+    "term_pali": "vedanā",
+    "term_tibetan": "tshor ba",
+    "term_chinese": "受",
+    "category": "psychology",
+    "definition": "The hedonic tone of experience as pleasant, unpleasant, or neutral. The second aggregate and seventh link in dependent origination."
+  },
+  {
+    "term_en": "Perception",
+    "term_sanskrit": "saṃjñā",
+    "term_pali": "saññā",
+    "term_tibetan": "'du shes",
+    "term_chinese": "想",
+    "category": "psychology",
+    "definition": "Recognition and interpretation of sensory data through concepts. The third of the five aggregates."
+  },
+  {
+    "term_en": "Form",
+    "term_sanskrit": "rūpa",
+    "term_pali": "rūpa",
+    "term_tibetan": "gzugs",
+    "term_chinese": "色",
+    "category": "doctrine",
+    "definition": "Material form including the physical body and sense objects. The first of the five aggregates."
+  },
+  {
+    "term_en": "Right View",
+    "term_sanskrit": "samyagdṛṣṭi",
+    "term_pali": "sammā diṭṭhi",
+    "term_tibetan": "yang dag pa'i lta ba",
+    "term_chinese": "正見",
+    "category": "doctrine",
+    "definition": "Correct understanding of the four noble truths and dependent origination. The first factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Intention",
+    "term_sanskrit": "samyaksaṃkalpa",
+    "term_pali": "sammā saṅkappa",
+    "term_tibetan": "yang dag pa'i rtog pa",
+    "term_chinese": "正思惟",
+    "category": "doctrine",
+    "definition": "Thoughts of renunciation, good will, and harmlessness. The second factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Speech",
+    "term_sanskrit": "samyagvāc",
+    "term_pali": "sammā vācā",
+    "term_tibetan": "yang dag pa'i ngag",
+    "term_chinese": "正語",
+    "category": "ethics",
+    "definition": "Abstaining from false, divisive, harsh, and idle speech. The third factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Action",
+    "term_sanskrit": "samyakkarmānta",
+    "term_pali": "sammā kammanta",
+    "term_tibetan": "yang dag pa'i las kyi mtha'",
+    "term_chinese": "正業",
+    "category": "ethics",
+    "definition": "Abstaining from killing, stealing, and sexual misconduct. The fourth factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Effort",
+    "term_sanskrit": "samyagvyāyāma",
+    "term_pali": "sammā vāyāma",
+    "term_tibetan": "yang dag pa'i rtsol ba",
+    "term_chinese": "正精進",
+    "category": "practice",
+    "definition": "Cultivation of wholesome states and abandonment of unwholesome ones. The sixth factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Mindfulness",
+    "term_sanskrit": "samyaksmṛti",
+    "term_pali": "sammā sati",
+    "term_tibetan": "yang dag pa'i dran pa",
+    "term_chinese": "正念",
+    "category": "practice",
+    "definition": "Continuous awareness of body, feelings, mind, and phenomena. The seventh factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Right Concentration",
+    "term_sanskrit": "samyaksamādhi",
+    "term_pali": "sammā samādhi",
+    "term_tibetan": "yang dag pa'i ting 'dzin",
+    "term_chinese": "正定",
+    "category": "practice",
+    "definition": "Unified mind developed through the four jhanas. The eighth factor of the Noble Eightfold Path."
+  },
+  {
+    "term_en": "Four Foundations of Mindfulness",
+    "term_sanskrit": "catvāri smṛtyupasthānāni",
+    "term_pali": "cattāro satipaṭṭhānā",
+    "term_tibetan": "dran pa nyer gzhag bzhi",
+    "term_chinese": "四念處",
+    "category": "practice",
+    "definition": "Systematic contemplation of body, feelings, mind, and phenomena. The primary framework for insight meditation."
+  },
+  {
+    "term_en": "Four Right Efforts",
+    "term_sanskrit": "catvāri prahāṇāni",
+    "term_pali": "cattāro sammappadhānā",
+    "term_tibetan": "yang dag spong ba bzhi",
+    "term_chinese": "四正勤",
+    "category": "practice",
+    "definition": "Preventing unarisen unwholesome states, abandoning arisen ones, cultivating unarisen wholesome states, and maintaining arisen ones. The framework for diligence."
+  },
+  {
+    "term_en": "Five Faculties",
+    "term_sanskrit": "pañcendriya",
+    "term_pali": "pañcindriyāni",
+    "term_tibetan": "dbang po lnga",
+    "term_chinese": "五根",
+    "category": "doctrine",
+    "definition": "Faith, energy, mindfulness, concentration, and wisdom as spiritual capacities. When strengthened, they become the five powers."
+  },
+  {
+    "term_en": "Five Powers",
+    "term_sanskrit": "pañcabala",
+    "term_pali": "pañcabalāni",
+    "term_tibetan": "stobs lnga",
+    "term_chinese": "五力",
+    "category": "doctrine",
+    "definition": "The five faculties developed to an unshakeable degree: faith, energy, mindfulness, concentration, and wisdom. Part of the thirty-seven factors of awakening."
+  },
+  {
+    "term_en": "Seven Factors of Awakening",
+    "term_sanskrit": "saptabodhyaṅga",
+    "term_pali": "sattabojjhaṅgā",
+    "term_tibetan": "byang chub yan lag bdun",
+    "term_chinese": "七覺支",
+    "category": "doctrine",
+    "definition": "Mindfulness, investigation, energy, joy, tranquility, concentration, and equanimity. Mental qualities that lead to awakening when balanced."
+  },
+  {
+    "term_en": "Three Trainings",
+    "term_sanskrit": "triśikṣā",
+    "term_pali": "tisikkhā",
+    "term_tibetan": "bslab pa gsum",
+    "term_chinese": "三學",
+    "category": "doctrine",
+    "definition": "Ethics, meditation, and wisdom as the three essential components of Buddhist practice. The comprehensive framework of the path."
+  },
+  {
+    "term_en": "Liberation",
+    "term_sanskrit": "vimokṣa",
+    "term_pali": "vimokkha",
+    "term_tibetan": "rnam thar",
+    "term_chinese": "解脫",
+    "category": "attainment",
+    "definition": "Freedom from the bonds of cyclic existence and mental afflictions. Synonymous with nirvana."
+  },
+  {
+    "term_en": "Omniscience",
+    "term_sanskrit": "sarvajñatā",
+    "term_pali": "sabbaññutā",
+    "term_tibetan": "thams cad mkhyen pa",
+    "term_chinese": "一切智",
+    "category": "attainment",
+    "definition": "Complete knowledge of all phenomena possessed by a fully awakened buddha. The cognitive aspect of full enlightenment."
+  },
+  {
+    "term_en": "Truth Body",
+    "term_sanskrit": "dharmakāya",
+    "term_pali": null,
+    "term_tibetan": "chos sku",
+    "term_chinese": "法身",
+    "category": "doctrine",
+    "definition": "The ultimate nature of a buddha as the embodiment of truth and emptiness. The first of the three bodies."
+  },
+  {
+    "term_en": "Enjoyment Body",
+    "term_sanskrit": "saṃbhogakāya",
+    "term_pali": null,
+    "term_tibetan": "longs sku",
+    "term_chinese": "報身",
+    "category": "doctrine",
+    "definition": "The subtle form of a buddha that teaches bodhisattvas in pure lands. The second of the three bodies."
+  },
+  {
+    "term_en": "Emanation Body",
+    "term_sanskrit": "nirmāṇakāya",
+    "term_pali": null,
+    "term_tibetan": "sprul sku",
+    "term_chinese": "化身",
+    "category": "doctrine",
+    "definition": "The physical manifestation of a buddha in ordinary realms to teach beings. The third of the three bodies."
+  },
+  {
+    "term_en": "Ten Perfections",
+    "term_sanskrit": "daśapāramitā",
+    "term_pali": "dasapāramī",
+    "term_tibetan": "pha rol tu phyin pa bcu",
+    "term_chinese": "十波羅蜜",
+    "category": "doctrine",
+    "definition": "Extended list adding skillful means, vow, power, and knowledge to the six perfections. Emphasized in Theravada and some Mahayana sources."
+  },
+  {
+    "term_en": "Refuge",
+    "term_sanskrit": "śaraṇa",
+    "term_pali": "saraṇa",
+    "term_tibetan": "skyabs",
+    "term_chinese": "歸依",
+    "category": "practice",
+    "definition": "Taking the Buddha, Dharma, and Sangha as protection and guidance. The foundational act of becoming a Buddhist."
+  },
+  {
+    "term_en": "Renunciation",
+    "term_sanskrit": "naihsargya",
+    "term_pali": "nekkhamma",
+    "term_tibetan": "nges 'byung",
+    "term_chinese": "出離",
+    "category": "practice",
+    "definition": "Turning away from worldly concerns toward liberation. The initial motivation in the graduated path."
+  },
+  {
+    "term_en": "Merit",
+    "term_sanskrit": "puṇya",
+    "term_pali": "puñña",
+    "term_tibetan": "bsod nams",
+    "term_chinese": "福德",
+    "category": "doctrine",
+    "definition": "Positive karmic potential accumulated through virtuous actions. Creates favorable conditions for practice and attainment."
+  },
+  {
+    "term_en": "Dedication of Merit",
+    "term_sanskrit": "pariṇāmanā",
+    "term_pali": "pattidāna",
+    "term_tibetan": "bsngo ba",
+    "term_chinese": "迴向",
+    "category": "practice",
+    "definition": "Directing accumulated virtue toward enlightenment of all beings. Prevents merit from being exhausted and magnifies its benefit."
+  },
+  {
+    "term_en": "Aspiration Prayer",
+    "term_sanskrit": "praṇidhāna",
+    "term_pali": "paṇidhāna",
+    "term_tibetan": "smon lam",
+    "term_chinese": "願",
+    "category": "practice",
+    "definition": "Formal expression of spiritual intentions and goals. Shapes the direction of one's practice and future rebirths."
+  },
+  {
+    "term_en": "Mandala",
+    "term_sanskrit": "maṇḍala",
+    "term_pali": null,
+    "term_tibetan": "dkyil 'khor",
+    "term_chinese": "曼荼羅",
+    "category": "ritual",
+    "definition": "Sacred circular diagram representing the cosmos or deity palace. Used in meditation and ritual in Vajrayana Buddhism."
+  },
+  {
+    "term_en": "Mantra",
+    "term_sanskrit": "mantra",
+    "term_pali": "manta",
+    "term_tibetan": "sngags",
+    "term_chinese": "真言",
+    "category": "practice",
+    "definition": "Sacred syllables or phrases repeated in meditation and ritual. Considered to embody the qualities of buddhas and deities."
+  },
+  {
+    "term_en": "Empowerment",
+    "term_sanskrit": "abhiṣeka",
+    "term_pali": null,
+    "term_tibetan": "dbang",
+    "term_chinese": "灌頂",
+    "category": "ritual",
+    "definition": "Tantric initiation ritual authorizing practice of specific meditation deities and techniques. Essential for Vajrayana practice."
+  },
+  {
+    "term_en": "Vajrayana",
+    "term_sanskrit": "vajrayāna",
+    "term_pali": null,
+    "term_tibetan": "rdo rje theg pa",
+    "term_chinese": "金剛乘",
+    "category": "doctrine",
+    "definition": "The tantric vehicle of Buddhism using advanced methods to achieve swift enlightenment. Prominent in Tibetan Buddhism."
+  },
+  {
+    "term_en": "Mahayana",
+    "term_sanskrit": "mahāyāna",
+    "term_pali": null,
+    "term_tibetan": "theg chen",
+    "term_chinese": "大乘",
+    "category": "doctrine",
+    "definition": "The Great Vehicle emphasizing the bodhisattva path and universal liberation. Includes Zen, Pure Land, and Tibetan Buddhism."
+  },
+  {
+    "term_en": "Theravada",
+    "term_sanskrit": null,
+    "term_pali": "theravāda",
+    "term_tibetan": null,
+    "term_chinese": "上座部",
+    "category": "doctrine",
+    "definition": "The School of the Elders, preserving the Pali canon and emphasizing individual liberation. Dominant in Southeast Asia."
+  },
+  {
+    "term_en": "Zen",
+    "term_sanskrit": "dhyāna",
+    "term_pali": "jhāna",
+    "term_tibetan": "bsam gtan",
+    "term_chinese": "禪",
+    "category": "doctrine",
+    "definition": "East Asian school emphasizing direct pointing to mind-nature through meditation and koans. Known as Chan in Chinese, Seon in Korean."
+  },
+  {
+    "term_en": "Awakening",
+    "term_sanskrit": "bodhi",
+    "term_pali": "bodhi",
+    "term_tibetan": "byang chub",
+    "term_chinese": "覺",
+    "category": "attainment",
+    "definition": "Complete understanding of reality and liberation from ignorance. The defining achievement of a buddha."
+  },
+  {
+    "term_en": "Buddha",
+    "term_sanskrit": "buddha",
+    "term_pali": "buddha",
+    "term_tibetan": "sangs rgyas",
+    "term_chinese": "佛",
+    "category": "attainment",
+    "definition": "One who has fully awakened to the nature of reality and is freed from all limitations. The highest spiritual attainment."
+  },
+  {
+    "term_en": "Teaching",
+    "term_sanskrit": "dharma",
+    "term_pali": "dhamma",
+    "term_tibetan": "chos",
+    "term_chinese": "法",
+    "category": "doctrine",
+    "definition": "The Buddha's teachings on the path to liberation and the nature of reality. Also means phenomenon, law, or principle."
+  },
+  {
+    "term_en": "Avalokiteshvara",
+    "term_sanskrit": "avalokiteśvara",
+    "term_pali": null,
+    "term_tibetan": "spyan ras gzigs",
+    "term_chinese": "觀音",
+    "category": "person",
+    "definition": "Bodhisattva of compassion who perceives the sounds of the world. One of the most popular figures in Mahayana Buddhism."
+  },
+  {
+    "term_en": "Manjushri",
+    "term_sanskrit": "mañjuśrī",
+    "term_pali": null,
+    "term_tibetan": "'jam dpal",
+    "term_chinese": "文殊",
+    "category": "person",
+    "definition": "Bodhisattva of wisdom who wields the sword that cuts through ignorance. Particularly revered in Zen and Tibetan traditions."
+  },
+  {
+    "term_en": "Maitreya",
+    "term_sanskrit": "maitreya",
+    "term_pali": "metteyya",
+    "term_tibetan": "byams pa",
+    "term_chinese": "彌勒",
+    "category": "person",
+    "definition": "The future Buddha who will appear when Shakyamuni's teachings have disappeared. Currently a bodhisattva in Tushita heaven."
+  },
+  {
+    "term_en": "Amitabha",
+    "term_sanskrit": "amitābha",
+    "term_pali": null,
+    "term_tibetan": "'od dpag med",
+    "term_chinese": "阿彌陀佛",
+    "category": "person",
+    "definition": "Buddha of Infinite Light who presides over Sukhavati pure land. Central figure in Pure Land Buddhism."
+  },
+  {
+    "term_en": "Tara",
+    "term_sanskrit": "tārā",
+    "term_pali": null,
+    "term_tibetan": "sgrol ma",
+    "term_chinese": "度母",
+    "category": "person",
+    "definition": "Female bodhisattva embodying enlightened activity and swift compassion. Particularly important in Tibetan Buddhism with green and white forms."
+  },
+  {
+    "term_en": "Luminosity",
+    "term_sanskrit": "prabhāsvara",
+    "term_pali": "pabhassara",
+    "term_tibetan": "'od gsal",
+    "term_chinese": "光明",
+    "category": "doctrine",
+    "definition": "The naturally radiant quality of mind underlying mental afflictions. A key concept in Mahayana and tantric Buddhism."
+  },
+  {
+    "term_en": "Clear Light",
+    "term_sanskrit": "prabhāsvara",
+    "term_pali": null,
+    "term_tibetan": "'od gsal",
+    "term_chinese": "淨光",
+    "category": "practice",
+    "definition": "The subtle level of consciousness recognized at death or in advanced meditation. Direct realization of this is enlightenment in highest yoga tantra."
+  },
+  {
+    "term_en": "Bardo",
+    "term_sanskrit": "antarābhava",
+    "term_pali": null,
+    "term_tibetan": "bar do",
+    "term_chinese": "中陰",
+    "category": "cosmology",
+    "definition": "Intermediate state between death and rebirth. Extensively described in Tibetan Buddhism, particularly the Bardo Thodol."
+  },
+  {
+    "term_en": "Chandrakirti",
+    "term_sanskrit": "candrakīrti",
+    "term_pali": null,
+    "term_tibetan": "zla ba grags pa",
+    "term_chinese": "月稱",
+    "category": "person",
+    "definition": "Seventh-century Madhyamaka philosopher who developed the Prasangika approach. His works are authoritative in Tibetan Buddhism."
+  },
+  {
+    "term_en": "Shantideva",
+    "term_sanskrit": "śāntideva",
+    "term_pali": null,
+    "term_tibetan": "zhi ba lha",
+    "term_chinese": "寂天",
+    "category": "person",
+    "definition": "Eighth-century Indian master who wrote the Bodhicaryavatara (Guide to the Bodhisattva's Way of Life). His work is central to Mahayana ethics."
+  },
+  {
+    "term_en": "Dalai Lama",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "ta la'i bla ma",
+    "term_chinese": "達賴喇嘛",
+    "category": "person",
+    "definition": "Successive incarnations of Avalokiteshvara serving as spiritual and temporal leaders of Tibet. The current is the fourteenth."
+  },
+  {
+    "term_en": "Prostration",
+    "term_sanskrit": "praṇipāta",
+    "term_pali": null,
+    "term_tibetan": "phyag 'tshal",
+    "term_chinese": "禮拜",
+    "category": "practice",
+    "definition": "Physical act of bowing fully to the ground as expression of reverence and purification. A preliminary practice in Tibetan Buddhism."
+  },
+  {
+    "term_en": "Circumambulation",
+    "term_sanskrit": "pradakṣiṇā",
+    "term_pali": "padakkhiṇa",
+    "term_tibetan": "skor ba",
+    "term_chinese": "繞塔",
+    "category": "practice",
+    "definition": "Ritual walking clockwise around sacred objects or places. A common devotional practice accumulating merit."
+  },
+  {
+    "term_en": "Stupa",
+    "term_sanskrit": "stūpa",
+    "term_pali": "thūpa",
+    "term_tibetan": "mchod rten",
+    "term_chinese": "塔",
+    "category": "institution",
+    "definition": "Dome-shaped structure containing relics or representing enlightened mind. A focal point for devotion and circumambulation."
+  },
+  {
+    "term_en": "Relics",
+    "term_sanskrit": "śarīra",
+    "term_pali": "sarīra",
+    "term_tibetan": "ring bsrel",
+    "term_chinese": "舍利",
+    "category": "doctrine",
+    "definition": "Physical remains of buddhas or saints, often taking the form of pearl-like crystals. Objects of veneration and enshrinement."
+  },
+  {
+    "term_en": "Kushinagar",
+    "term_sanskrit": "kuśinagara",
+    "term_pali": "kusinārā",
+    "term_tibetan": "rtswa mchog grong khyer",
+    "term_chinese": "拘尸那羅",
+    "category": "institution",
+    "definition": "Place where the historical Buddha passed into parinirvana. One of the four primary Buddhist pilgrimage sites."
+  },
+  {
+    "term_en": "Lumbini",
+    "term_sanskrit": "lumbinī",
+    "term_pali": "lumbinī",
+    "term_tibetan": "lum+bi ni",
+    "term_chinese": "藍毘尼",
+    "category": "institution",
+    "definition": "Birthplace of the historical Buddha in present-day Nepal. One of the four primary Buddhist pilgrimage sites."
+  },
+  {
+    "term_en": "Bodh Gaya",
+    "term_sanskrit": "bodhagayā",
+    "term_pali": "buddhagayā",
+    "term_tibetan": "rdo rje gdan",
+    "term_chinese": "菩提伽耶",
+    "category": "institution",
+    "definition": "Place where the Buddha achieved enlightenment under the Bodhi tree. The most sacred Buddhist pilgrimage site."
+  },
+  {
+    "term_en": "Sarnath",
+    "term_sanskrit": "sārnāth",
+    "term_pali": null,
+    "term_tibetan": "ri dags kyi lhung po",
+    "term_chinese": "鹿野苑",
+    "category": "institution",
+    "definition": "Place where the Buddha gave his first teaching on the four noble truths. One of the four primary Buddhist pilgrimage sites."
+  },
+  {
+    "term_en": "Visualization",
+    "term_sanskrit": "bhāvanā",
+    "term_pali": "bhāvanā",
+    "term_tibetan": "dmigs pa",
+    "term_chinese": "觀想",
+    "category": "practice",
+    "definition": "Mental construction of images of deities, pure lands, or symbolic forms in meditation. Central technique in Vajrayana practice."
+  },
+  {
+    "term_en": "Deity Yoga",
+    "term_sanskrit": "devatāyoga",
+    "term_pali": null,
+    "term_tibetan": "lha'i rnal 'byor",
+    "term_chinese": "本尊瑜伽",
+    "category": "practice",
+    "definition": "Tantric practice of visualizing oneself as an enlightened deity. Transforms ordinary perception into wisdom awareness."
+  },
+  {
+    "term_en": "Guru Yoga",
+    "term_sanskrit": "guruyoga",
+    "term_pali": null,
+    "term_tibetan": "bla ma'i rnal 'byor",
+    "term_chinese": "上師相應法",
+    "category": "practice",
+    "definition": "Practice of merging one's mind with the teacher's enlightened awareness. A preliminary practice generating devotion and blessings."
+  },
+  {
+    "term_en": "Root Guru",
+    "term_sanskrit": "mūlaguru",
+    "term_pali": null,
+    "term_tibetan": "rtsa ba'i bla ma",
+    "term_chinese": "根本上師",
+    "category": "person",
+    "definition": "One's primary spiritual teacher who introduces the nature of mind. The most important relationship in Vajrayana Buddhism."
+  },
+  {
+    "term_en": "Lineage",
+    "term_sanskrit": "paramparā",
+    "term_pali": "paramparā",
+    "term_tibetan": "brgyud pa",
+    "term_chinese": "傳承",
+    "category": "institution",
+    "definition": "Succession of teachers transmitting teachings from the Buddha to the present. Ensures authenticity and blessing continuity."
+  },
+  {
+    "term_en": "Oral Transmission",
+    "term_sanskrit": "āgama",
+    "term_pali": null,
+    "term_tibetan": "lung",
+    "term_chinese": "口傳",
+    "category": "practice",
+    "definition": "Reading of texts aloud by a qualified teacher to authorize their practice. Maintains unbroken lineage connection."
+  },
+  {
+    "term_en": "Pith Instructions",
+    "term_sanskrit": "upadeśa",
+    "term_pali": null,
+    "term_tibetan": "man ngag",
+    "term_chinese": "訣竅",
+    "category": "practice",
+    "definition": "Essential practical advice pointing directly to meditation techniques. Transmitted privately from teacher to student."
+  },
+  {
+    "term_en": "Retreat",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "mtshams",
+    "term_chinese": "閉關",
+    "category": "practice",
+    "definition": "Extended period of intensive practice in seclusion. Traditional retreats last three years, three months, and three days."
+  },
+  {
+    "term_en": "Preliminary Practices",
+    "term_sanskrit": "pūrvaṅga",
+    "term_pali": null,
+    "term_tibetan": "sngon 'gro",
+    "term_chinese": "前行",
+    "category": "practice",
+    "definition": "Foundation practices including refuge, prostrations, Vajrasattva, mandala offering, and guru yoga. Prepare the mind for advanced tantric practice."
+  },
+  {
+    "term_en": "Completion Stage",
+    "term_sanskrit": "niṣpannakrama",
+    "term_pali": null,
+    "term_tibetan": "rdzogs rim",
+    "term_chinese": "圓滿次第",
+    "category": "practice",
+    "definition": "Advanced tantric practices working with subtle energies and consciousness. Follows the generation stage in highest yoga tantra."
+  },
+  {
+    "term_en": "Generation Stage",
+    "term_sanskrit": "utpattikrama",
+    "term_pali": null,
+    "term_tibetan": "bskyed rim",
+    "term_chinese": "生起次第",
+    "category": "practice",
+    "definition": "Tantric visualization practices creating pure appearance of deity and mandala. The first stage of highest yoga tantra."
+  },
+  {
+    "term_en": "Subtle Body",
+    "term_sanskrit": "sūkṣmaśarīra",
+    "term_pali": null,
+    "term_tibetan": "phra mo'i lus",
+    "term_chinese": "細身",
+    "category": "practice",
+    "definition": "System of energy channels, winds, and drops manipulated in tantric practice. Basis for completion stage meditation."
+  },
+  {
+    "term_en": "Central Channel",
+    "term_sanskrit": "avadhūti",
+    "term_pali": null,
+    "term_tibetan": "dbu ma",
+    "term_chinese": "中脈",
+    "category": "practice",
+    "definition": "Main energy channel running through the body's center in tantric physiology. Focus of advanced completion stage practices."
+  },
+  {
+    "term_en": "Inner Heat",
+    "term_sanskrit": "caṇḍālī",
+    "term_pali": null,
+    "term_tibetan": "gtum mo",
+    "term_chinese": "拙火",
+    "category": "practice",
+    "definition": "Tantric practice generating blissful heat at the navel to melt subtle drops. One of the six yogas of Naropa."
+  },
+  {
+    "term_en": "Dream Yoga",
+    "term_sanskrit": "svapnadarśana",
+    "term_pali": null,
+    "term_tibetan": "rmi lam",
+    "term_chinese": "夢瑜伽",
+    "category": "practice",
+    "definition": "Practice of maintaining awareness during dreams to recognize their illusory nature. One of the six yogas of Naropa."
+  },
+  {
+    "term_en": "Illusory Body",
+    "term_sanskrit": "māyākāya",
+    "term_pali": null,
+    "term_tibetan": "sgyu lus",
+    "term_chinese": "幻身",
+    "category": "practice",
+    "definition": "Realization of one's form as empty appearance during waking state. Advanced completion stage attainment."
+  },
+  {
+    "term_en": "Transference of Consciousness",
+    "term_sanskrit": "saṃkrānti",
+    "term_pali": null,
+    "term_tibetan": "'pho ba",
+    "term_chinese": "遷識",
+    "category": "practice",
+    "definition": "Practice of ejecting consciousness at death to ensure favorable rebirth. One of the six yogas of Naropa."
+  },
+  {
+    "term_en": "Reductio Reasoning",
+    "term_sanskrit": "prasaṅga",
+    "term_pali": null,
+    "term_tibetan": "thal 'gyur",
+    "term_chinese": "應成",
+    "category": "philosophy",
+    "definition": "Method of refuting opponents by showing absurd consequences of their positions. Core technique in Prasangika Madhyamaka."
+  },
+  {
+    "term_en": "Autonomous Syllogism",
+    "term_sanskrit": "svatantra",
+    "term_pali": null,
+    "term_tibetan": "rang rgyud",
+    "term_chinese": "自續",
+    "category": "philosophy",
+    "definition": "Madhyamaka sub-school using positive logical arguments accepted by both parties. Associated with Bhavaviveka."
+  },
+  {
+    "term_en": "Eight Negations",
+    "term_sanskrit": "aṣṭanivṛtti",
+    "term_pali": null,
+    "term_tibetan": "mtha' brgyad",
+    "term_chinese": "八不",
+    "category": "philosophy",
+    "definition": "Nagarjuna's eight-fold negation of arising, ceasing, permanence, annihilation, coming, going, identity, and difference. Expresses ultimate emptiness."
+  },
+  {
+    "term_en": "Conventional Truth",
+    "term_sanskrit": "vyavahārasatya",
+    "term_pali": null,
+    "term_tibetan": "kun rdzob bden pa",
+    "term_chinese": "俗諦",
+    "category": "philosophy",
+    "definition": "Relative truth about conventional reality that functions in ordinary experience. Contrasts with ultimate truth in the two truths doctrine."
+  },
+  {
+    "term_en": "Ultimate Truth",
+    "term_sanskrit": "paramārthasatya",
+    "term_pali": null,
+    "term_tibetan": "don dam bden pa",
+    "term_chinese": "真諦",
+    "category": "philosophy",
+    "definition": "Highest truth about the ultimate nature of reality as empty. The goal of philosophical analysis in Madhyamaka."
+  },
+  {
+    "term_en": "Eight Consciousnesses",
+    "term_sanskrit": "aṣṭavijñāna",
+    "term_pali": null,
+    "term_tibetan": "rnam shes tshogs brgyad",
+    "term_chinese": "八識",
+    "category": "psychology",
+    "definition": "Yogacara analysis: five sense consciousnesses, mental consciousness, afflicted mind, and storehouse consciousness. Comprehensive model of awareness.",
+    "aliases": [
+      "eight kinds of consciousness",
+      "eight forms of consciousness",
+      "eightfold consciousness",
+      "eight types of consciousness",
+      "aṣṭa-vijñāna",
+      "aṣṭau vijñānāni",
+      "八识",
+      "storehouse consciousness",
+      "ālayavijñāna",
+      "ālaya-vijñāna",
+      "alayavijnana",
+      "阿賴耶識",
+      "阿赖耶识",
+      "manas consciousness",
+      "afflicted mind",
+      "kliṣṭamanas",
+      "klistamanas",
+      "末那識",
+      "末那识",
+      "ādānavijñāna",
+      "adanavijnana",
+      "manovijñāna",
+      "manovijnana"
+    ]
+  },
+  {
+    "term_en": "Karmic Seeds",
+    "term_sanskrit": "bīja",
+    "term_pali": null,
+    "term_tibetan": "sa bon",
+    "term_chinese": "種子",
+    "category": "psychology",
+    "definition": "Karmic potentials stored in storehouse consciousness that ripen into experiences. Yogacara explanation of karmic continuity."
+  },
+  {
+    "term_en": "Imagined Nature",
+    "term_sanskrit": "parikalpita",
+    "term_pali": null,
+    "term_tibetan": "kun brtags",
+    "term_chinese": "遍計",
+    "category": "philosophy",
+    "definition": "The fictional nature imposed by conceptual elaboration in Yogacara's three natures. The source of delusion."
+  },
+  {
+    "term_en": "Dependent Nature",
+    "term_sanskrit": "paratantra",
+    "term_pali": null,
+    "term_tibetan": "gzhan dbang",
+    "term_chinese": "依他",
+    "category": "philosophy",
+    "definition": "The dependent nature of phenomena arising from causes and conditions. The middle nature in Yogacara's three natures."
+  },
+  {
+    "term_en": "Perfected Nature",
+    "term_sanskrit": "pariniṣpanna",
+    "term_pali": null,
+    "term_tibetan": "yongs grub",
+    "term_chinese": "圓成",
+    "category": "philosophy",
+    "definition": "The perfected nature of reality when imagined nature is removed from dependent nature. The ultimate truth in Yogacara."
+  },
+  {
+    "term_en": "Consciousness-only",
+    "term_sanskrit": "vijñaptimātra",
+    "term_pali": null,
+    "term_tibetan": "rnam rig tsam",
+    "term_chinese": "唯識",
+    "category": "philosophy",
+    "definition": "Yogacara doctrine that all experience is constructed by consciousness without external objects. Also called mind-only.",
+    "aliases": [
+      "consciousness only",
+      "representation-only",
+      "representation only",
+      "mere representation",
+      "vijnaptimatrata",
+      "vijñapti-mātra",
+      "vijnapti-matra",
+      "vijñapti",
+      "唯识",
+      "rnam par rig pa tsam"
+    ]
+  },
+  {
+    "term_en": "Dharma Realm",
+    "term_sanskrit": "dharmadhātu",
+    "term_pali": null,
+    "term_tibetan": "chos kyi dbyings",
+    "term_chinese": "法界",
+    "category": "philosophy",
+    "definition": "The sphere of reality or ultimate nature of phenomena. In Yogacara, the true suchness free from duality."
+  },
+  {
+    "term_en": "Suchness",
+    "term_sanskrit": "tathatā",
+    "term_pali": null,
+    "term_tibetan": "de bzhin nyid",
+    "term_chinese": "真如",
+    "category": "philosophy",
+    "definition": "The true nature of things as they are, beyond conceptual elaboration. Synonymous with emptiness and dharma realm."
+  },
+  {
+    "term_en": "Sadhana",
+    "term_sanskrit": "sādhana",
+    "term_pali": null,
+    "term_tibetan": "sgrub thabs",
+    "term_chinese": "儀軌",
+    "category": "ritual",
+    "definition": "Structured liturgical text guiding tantric meditation practice with a deity. Contains visualization, mantra, and offerings."
+  },
+  {
+    "term_en": "Treasure Teaching",
+    "term_sanskrit": "terma",
+    "term_pali": null,
+    "term_tibetan": "gter ma",
+    "term_chinese": "伏藏",
+    "category": "text_genre",
+    "definition": "Hidden teachings concealed by Padmasambhava and revealed by tertons. A distinctive feature of Nyingma tradition."
+  },
+  {
+    "term_en": "Treasure Revealer",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gter ston",
+    "term_chinese": "掘藏師",
+    "category": "person",
+    "definition": "Master who discovers and reveals concealed teachings in Tibetan Buddhism. Identified through signs and prophecies."
+  },
+  {
+    "term_en": "Mudra",
+    "term_sanskrit": "mudrā",
+    "term_pali": null,
+    "term_tibetan": "phyag rgya",
+    "term_chinese": "手印",
+    "category": "ritual",
+    "definition": "Symbolic hand gestures expressing inner states in tantric practice. Each deity has characteristic mudras."
+  },
+  {
+    "term_en": "Vajra",
+    "term_sanskrit": "vajra",
+    "term_pali": null,
+    "term_tibetan": "rdo rje",
+    "term_chinese": "金剛杵",
+    "category": "ritual",
+    "definition": "Ritual implement symbolizing indestructible diamond-like emptiness and compassion. Central symbol in Vajrayana Buddhism."
+  },
+  {
+    "term_en": "Dakini",
+    "term_sanskrit": "ḍākinī",
+    "term_pali": null,
+    "term_tibetan": "mkha' 'gro ma",
+    "term_chinese": "空行母",
+    "category": "person",
+    "definition": "Female embodiment of wisdom and enlightened energy in tantric Buddhism. Can be mundane or supramundane."
+  },
+  {
+    "term_en": "Meditation Deity",
+    "term_sanskrit": "iṣṭadevatā",
+    "term_pali": null,
+    "term_tibetan": "yi dam",
+    "term_chinese": "本尊",
+    "category": "practice",
+    "definition": "Personal deity chosen for tantric practice representing aspects of enlightenment. Central to deity yoga."
+  },
+  {
+    "term_en": "Dharma Protector",
+    "term_sanskrit": "dharmapāla",
+    "term_pali": null,
+    "term_tibetan": "chos skyong",
+    "term_chinese": "護法",
+    "category": "person",
+    "definition": "Wrathful deity sworn to protect Buddhist teachings and practitioners. Can be mundane or enlightened."
+  },
+  {
+    "term_en": "Mind Training",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "blo sbyong",
+    "term_chinese": "修心",
+    "category": "practice",
+    "definition": "Tibetan tradition of transforming adversity into the path through cultivation of bodhicitta. Includes tonglen and seven points."
+  },
+  {
+    "term_en": "Chod Practice",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gcod",
+    "term_chinese": "斷法",
+    "category": "practice",
+    "definition": "Tantric practice of offering one's body to spirits to cut ego-clinging. Combines Prajnaparamita philosophy with tantric visualization."
+  },
+  {
+    "term_en": "Longchenpa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "klong chen pa",
+    "term_chinese": "龍欽巴",
+    "category": "person",
+    "definition": "Fourteenth-century Nyingma master who systematized Dzogchen teachings. Author of Seven Treasuries and other major works."
+  },
+  {
+    "term_en": "Naropa",
+    "term_sanskrit": "nāropa",
+    "term_pali": null,
+    "term_tibetan": "na ro pa",
+    "term_chinese": "那洛巴",
+    "category": "person",
+    "definition": "Eleventh-century Indian mahasiddha who transmitted six yogas to Marpa. Key figure in Kagyu lineage."
+  },
+  {
+    "term_en": "Tilopa",
+    "term_sanskrit": "tilopa",
+    "term_pali": null,
+    "term_tibetan": "ti lo pa",
+    "term_chinese": "帝洛巴",
+    "category": "person",
+    "definition": "Tenth-century Indian mahasiddha, teacher of Naropa. Received Mahamudra teachings directly from Vajradhara."
+  },
+  {
+    "term_en": "Marpa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "mar pa",
+    "term_chinese": "馬爾巴",
+    "category": "person",
+    "definition": "Eleventh-century Tibetan translator who studied with Naropa and brought Kagyu teachings to Tibet. Teacher of Milarepa."
+  },
+  {
+    "term_en": "Gampopa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "sgam po pa",
+    "term_chinese": "岡波巴",
+    "category": "person",
+    "definition": "Twelfth-century Tibetan master who combined Kadam and Mahamudra traditions. Systematized Kagyu teachings and founded monasteries."
+  },
+  {
+    "term_en": "Sakya Pandita",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "sa skya paN+Di ta",
+    "term_chinese": "薩迦班智達",
+    "category": "person",
+    "definition": "Thirteenth-century Tibetan scholar of Sakya tradition. Renowned for scholarship in Buddhist logic and epistemology."
+  },
+  {
+    "term_en": "Dolpopa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "dol po pa",
+    "term_chinese": "覺囊巴",
+    "category": "person",
+    "definition": "Fourteenth-century Tibetan master who taught shentong (other-emptiness) view. Founder of Jonang tradition's philosophical approach."
+  },
+  {
+    "term_en": "Mipham",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "mi pham",
+    "term_chinese": "麥彭仁波切",
+    "category": "person",
+    "definition": "Nineteenth-century Nyingma master and polymath. Wrote extensively on philosophy, tantra, medicine, and astrology."
+  },
+  {
+    "term_en": "Patrul Rinpoche",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "dpal sprul",
+    "term_chinese": "巴楚仁波切",
+    "category": "person",
+    "definition": "Nineteenth-century Nyingma master known for simple lifestyle and Words of My Perfect Teacher. Emphasized practice over scholarship."
+  },
+  {
+    "term_en": "Jamgon Kongtrul",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "'jam mgon kong sprul",
+    "term_chinese": "蔣貢康楚",
+    "category": "person",
+    "definition": "Nineteenth-century Tibetan master who compiled Five Treasuries. Leader of Rime (non-sectarian) movement."
+  },
+  {
+    "term_en": "Dilgo Khyentse",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "dil mgo mkhyen brtse",
+    "term_chinese": "頂果欽哲",
+    "category": "person",
+    "definition": "Twentieth-century Nyingma master known for vast learning and realization. Teacher of many contemporary lamas."
+  },
+  {
+    "term_en": "Avatamsaka Sutra",
+    "term_sanskrit": "avataṃsakasūtra",
+    "term_pali": null,
+    "term_tibetan": "phal po che",
+    "term_chinese": "華嚴經",
+    "category": "text_genre",
+    "definition": "Massive Mahayana sutra teaching interpenetration of all phenomena. Basis of Huayan philosophy."
+  },
+  {
+    "term_en": "Vimalakirti Sutra",
+    "term_sanskrit": "vimalakīrtinirdeśa",
+    "term_pali": null,
+    "term_tibetan": "dri ma med grags",
+    "term_chinese": "維摩詰經",
+    "category": "text_genre",
+    "definition": "Mahayana sutra featuring lay bodhisattva Vimalakirti teaching emptiness and non-duality. Emphasizes lay practice."
+  },
+  {
+    "term_en": "Bodhisattvabhumi",
+    "term_sanskrit": "bodhisattvabhūmi",
+    "term_pali": null,
+    "term_tibetan": "byang sa",
+    "term_chinese": "菩薩地",
+    "category": "text_genre",
+    "definition": "Yogacara text attributed to Asanga describing bodhisattva stages and practices. Part of Yogacarabhumi collection."
+  },
+  {
+    "term_en": "Abhisamayalankara",
+    "term_sanskrit": "abhisamayālaṃkāra",
+    "term_pali": null,
+    "term_tibetan": "mngon rtogs rgyan",
+    "term_chinese": "現觀莊嚴論",
+    "category": "text_genre",
+    "definition": "Maitreya's treatise systematizing perfection of wisdom sutras into eight topics. Central to Tibetan monastic curriculum."
+  },
+  {
+    "term_en": "Madhyamakavatara",
+    "term_sanskrit": "madhyamakāvatāra",
+    "term_pali": null,
+    "term_tibetan": "dbu ma la 'jug pa",
+    "term_chinese": "入中論",
+    "category": "text_genre",
+    "definition": "Chandrakirti's introduction to Madhyamaka philosophy through ten bodhisattva grounds. Authoritative Prasangika text."
+  },
+  {
+    "term_en": "Bodhicaryavatara",
+    "term_sanskrit": "bodhicaryāvatāra",
+    "term_pali": null,
+    "term_tibetan": "byang chub sems dpa'i spyod pa la 'jug pa",
+    "term_chinese": "入菩薩行論",
+    "category": "text_genre",
+    "definition": "Shantideva's guide to bodhisattva practice emphasizing patience, wisdom, and dedication. One of most beloved Mahayana texts."
+  },
+  {
+    "term_en": "Mulamadhyamakakarika",
+    "term_sanskrit": "mūlamadhyamakakārikā",
+    "term_pali": null,
+    "term_tibetan": "dbu ma rtsa ba'i tshig le'ur byas pa",
+    "term_chinese": "中論",
+    "category": "text_genre",
+    "definition": "Nagarjuna's root verses on the Middle Way. Foundational text of Madhyamaka philosophy."
+  },
+  {
+    "term_en": "Yogacarabhumi",
+    "term_sanskrit": "yogācārabhūmi",
+    "term_pali": null,
+    "term_tibetan": "rnal 'byor spyod pa'i sa",
+    "term_chinese": "瑜伽師地論",
+    "category": "text_genre",
+    "definition": "Massive Yogacara encyclopedic text attributed to Asanga. Covers stages of practice and philosophical topics."
+  },
+  {
+    "term_en": "Guhyasamaja Tantra",
+    "term_sanskrit": "guhyasamāja",
+    "term_pali": null,
+    "term_tibetan": "gsang ba 'dus pa",
+    "term_chinese": "密集金剛",
+    "category": "text_genre",
+    "definition": "Highest yoga tantra text central to Gelug tradition. Teaches generation and completion stage practices."
+  },
+  {
+    "term_en": "Hevajra Tantra",
+    "term_sanskrit": "hevajra",
+    "term_pali": null,
+    "term_tibetan": "kye rdo rje",
+    "term_chinese": "喜金剛",
+    "category": "text_genre",
+    "definition": "Highest yoga tantra important in Sakya tradition. Emphasizes non-dual wisdom and bliss."
+  },
+  {
+    "term_en": "Kalachakra Tantra",
+    "term_sanskrit": "kālacakra",
+    "term_pali": null,
+    "term_tibetan": "dus kyi 'khor lo",
+    "term_chinese": "時輪金剛",
+    "category": "text_genre",
+    "definition": "Highest yoga tantra linking cosmology, astrology, and practice. Known for elaborate initiation and Shambhala connection."
+  },
+  {
+    "term_en": "Blue Cliff Record",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "碧巖錄",
+    "category": "text_genre",
+    "definition": "Classic Chan collection of 100 koans with commentary. Central text for Zen koan study."
+  },
+  {
+    "term_en": "Gateless Gate",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "無門關",
+    "category": "text_genre",
+    "definition": "Collection of 48 Chan koans compiled by Wumen. Includes famous 'Mu' and 'Sound of one hand' koans."
+  },
+  {
+    "term_en": "Shobogenzo",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "正法眼藏",
+    "category": "text_genre",
+    "definition": "Dogen's masterwork on Zen philosophy and practice. 95 fascicles exploring Buddha-nature, time, and practice-realization."
+  },
+  {
+    "term_en": "Koan Practice",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "公案",
+    "category": "practice",
+    "definition": "Zen practice of meditating on paradoxical questions or stories to break through conceptual thinking. Central to Rinzai tradition."
+  },
+  {
+    "term_en": "Just Sitting",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "只管打坐",
+    "category": "practice",
+    "definition": "Soto Zen practice of sitting meditation without object or goal. Dogen taught this as practice-realization unity."
+  },
+  {
+    "term_en": "Buddha Recitation",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "念佛",
+    "category": "practice",
+    "definition": "Pure Land practice of reciting Amitabha Buddha's name. Cultivates faith and aspiration for rebirth in pure land."
+  },
+  {
+    "term_en": "Critical Phrase",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "話頭",
+    "category": "practice",
+    "definition": "Chan practice of investigating the meaning before words arise. Similar to koan practice but focusing on single phrase."
+  },
+  {
+    "term_en": "Direct Pointing",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "直指",
+    "category": "practice",
+    "definition": "Chan method of pointing directly to mind's nature beyond words and concepts. Attributed to Bodhidharma's transmission."
+  },
+  {
+    "term_en": "Nature of Mind",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "sems nyid",
+    "term_chinese": "心性",
+    "category": "practice",
+    "definition": "The ultimate nature of consciousness as empty, luminous, and unobstructed. Central to Dzogchen and Mahamudra."
+  },
+  {
+    "term_en": "Walking Meditation",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "經行",
+    "category": "practice",
+    "definition": "Formal walking practice alternating with sitting meditation in Zen. Maintains mindfulness between sitting periods."
+  },
+  {
+    "term_en": "Intensive Retreat",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "接心",
+    "category": "practice",
+    "definition": "Week-long intensive Zen meditation retreat. Combines extended sitting with koan study or shikantaza."
+  },
+  {
+    "term_en": "Formal Meal",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "應量器",
+    "category": "practice",
+    "definition": "Zen monastic meal ritual performed with nested bowls in silence. Mindfulness practice extending meditation to eating."
+  },
+  {
+    "term_en": "Ganachakra",
+    "term_sanskrit": "gaṇacakra",
+    "term_pali": null,
+    "term_tibetan": "tshogs",
+    "term_chinese": "會供",
+    "category": "ritual",
+    "definition": "Tantric feast offering with food, drink, and ritual substances. Accumulates merit and strengthens commitments."
+  },
+  {
+    "term_en": "Chan School",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "禪宗",
+    "category": "institution",
+    "definition": "Chinese meditation school emphasizing direct realization. Became Zen in Japan, Seon in Korea, Thien in Vietnam."
+  },
+  {
+    "term_en": "Tiantai School",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "天台宗",
+    "category": "institution",
+    "definition": "Chinese school based on Lotus Sutra teaching perfect integration of all phenomena. Founded by Zhiyi."
+  },
+  {
+    "term_en": "Huayan School",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "華嚴宗",
+    "category": "institution",
+    "definition": "Chinese school based on Avatamsaka Sutra teaching mutual interpenetration. Known for sophisticated metaphysics."
+  },
+  {
+    "term_en": "Three Treatise School",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "三論宗",
+    "category": "institution",
+    "definition": "Chinese Madhyamaka school based on Nagarjuna's three treatises. Transmitted by Kumarajiva."
+  },
+  {
+    "term_en": "Consciousness-Only School",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "唯識宗",
+    "category": "institution",
+    "definition": "Chinese Yogacara school based on mind-only philosophy. Founded by Xuanzang after studying in India."
+  },
+  {
+    "term_en": "止觀 Practice",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "止觀",
+    "category": "practice",
+    "definition": "Tiantai integration of calming and insight meditation. Simultaneous cultivation rather than sequential stages."
+  },
+  {
+    "term_en": "Perfect Interpenetration",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "圓融",
+    "category": "philosophy",
+    "definition": "Tiantai teaching that all phenomena perfectly include each other without obstruction. Expresses non-dual reality."
+  },
+  {
+    "term_en": "Three Truths",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "三諦",
+    "category": "philosophy",
+    "definition": "Tiantai teaching of empty, provisional, and middle truths as three aspects of one reality. Expansion of two truths."
+  },
+  {
+    "term_en": "Three Thousand Realms in One Thought",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "一念三千",
+    "category": "philosophy",
+    "definition": "Tiantai doctrine that each moment of consciousness contains all possible states of existence. Expresses totalistic vision."
+  },
+  {
+    "term_en": "Principle and Phenomena Non-obstruction",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "理事無礙",
+    "category": "philosophy",
+    "definition": "Huayan teaching that universal principle and particular phenomena interpenetrate freely. Foundation for phenomena-phenomena non-obstruction."
+  },
+  {
+    "term_en": "Monk",
+    "term_sanskrit": "bhikṣu",
+    "term_pali": "bhikkhu",
+    "term_tibetan": "dge slong",
+    "term_chinese": "比丘",
+    "category": "person",
+    "definition": "Fully ordained male monastic following complete vinaya. Takes upwards of 250 precepts."
+  },
+  {
+    "term_en": "Nun",
+    "term_sanskrit": "bhikṣuṇī",
+    "term_pali": "bhikkhunī",
+    "term_tibetan": "dge slong ma",
+    "term_chinese": "比丘尼",
+    "category": "person",
+    "definition": "Fully ordained female monastic following complete vinaya. Takes upwards of 300 precepts."
+  },
+  {
+    "term_en": "Hearer",
+    "term_sanskrit": "śrāvaka",
+    "term_pali": "sāvaka",
+    "term_tibetan": "nyan thos",
+    "term_chinese": "聲聞",
+    "category": "path",
+    "definition": "Practitioner following Hinayana path to arhatship by hearing teachings. One of three vehicle types."
+  },
+  {
+    "term_en": "Bodhisattva Path",
+    "term_sanskrit": "bodhisattvamārga",
+    "term_pali": null,
+    "term_tibetan": "byang chub sems dpa'i lam",
+    "term_chinese": "菩薩道",
+    "category": "path",
+    "definition": "The Mahayana path of cultivating enlightenment for all beings through perfections and grounds. Superior to individual liberation."
+  },
+  {
+    "term_en": "Vinaya Basket",
+    "term_sanskrit": "vinayapiṭaka",
+    "term_pali": "vinayapiṭaka",
+    "term_tibetan": "'dul ba'i sde snod",
+    "term_chinese": "律藏",
+    "category": "text_genre",
+    "definition": "First basket of Buddhist canon containing monastic rules and procedures. Foundation of sangha organization."
+  },
+  {
+    "term_en": "Sutra Basket",
+    "term_sanskrit": "sūtrapiṭaka",
+    "term_pali": "suttapiṭaka",
+    "term_tibetan": "mdo sde'i sde snod",
+    "term_chinese": "經藏",
+    "category": "text_genre",
+    "definition": "Second basket of Buddhist canon containing Buddha's discourses. Core doctrinal teachings."
+  },
+  {
+    "term_en": "Abhidharma Basket",
+    "term_sanskrit": "abhidharmapiṭaka",
+    "term_pali": "abhidhammapiṭaka",
+    "term_tibetan": "chos mngon pa'i sde snod",
+    "term_chinese": "論藏",
+    "category": "text_genre",
+    "definition": "Third basket of Buddhist canon containing systematic analysis. Philosophical and psychological elaborations."
+  },
+  {
+    "term_en": "Three Baskets",
+    "term_sanskrit": "tripiṭaka",
+    "term_pali": "tipiṭaka",
+    "term_tibetan": "sde snod gsum",
+    "term_chinese": "三藏",
+    "category": "text_genre",
+    "definition": "The complete Buddhist canon divided into vinaya, sutra, and abhidharma. Foundation of Buddhist literature."
+  },
+  {
+    "term_en": "Collection",
+    "term_sanskrit": "āgama",
+    "term_pali": "nikāya",
+    "term_tibetan": "lung",
+    "term_chinese": "阿含",
+    "category": "text_genre",
+    "definition": "Early Buddhist text collections preserved in Chinese and Pali. Contains Buddha's discourses organized thematically."
+  },
+  {
+    "term_en": "Dharani",
+    "term_sanskrit": "dhāraṇī",
+    "term_pali": null,
+    "term_tibetan": "gzungs",
+    "term_chinese": "陀羅尼",
+    "category": "practice",
+    "definition": "Extended mantric formulae that protect and retain teachings. Longer than mantras, used in Mahayana and Vajrayana."
+  },
+  {
+    "term_en": "Contemplation",
+    "term_sanskrit": "anupaśyanā",
+    "term_pali": "anupassanā",
+    "term_tibetan": "rjes su lta ba",
+    "term_chinese": "隨觀",
+    "category": "practice",
+    "definition": "Sustained observation of phenomena in mindfulness practice. Component of four foundations of mindfulness."
+  },
+  {
+    "term_en": "Foundations of Mindfulness",
+    "term_sanskrit": "smṛtyupasthāna",
+    "term_pali": "satipaṭṭhāna",
+    "term_tibetan": "dran pa nyer bzhag",
+    "term_chinese": "念住",
+    "category": "practice",
+    "definition": "Framework of contemplating body, feelings, mind, and phenomena. Primary structure for vipassana practice."
+  },
+  {
+    "term_en": "Divine Abodes",
+    "term_sanskrit": "brahmavihāra",
+    "term_pali": "brahmavihāra",
+    "term_tibetan": "tshangs pa'i gnas",
+    "term_chinese": "梵住",
+    "category": "practice",
+    "definition": "The four immeasurables as sublime states leading to high rebirth. Also called boundless states."
+  },
+  {
+    "term_en": "Ten Precepts",
+    "term_sanskrit": "daśaśīla",
+    "term_pali": "dasasīla",
+    "term_tibetan": "bslab pa bcu",
+    "term_chinese": "十戒",
+    "category": "ethics",
+    "definition": "Extended ethical code for novices adding restraint from gold, high beds, entertainment, and eating after noon. Foundation for monastic ordination."
+  },
+  {
+    "term_en": "Volition",
+    "term_sanskrit": "cetanā",
+    "term_pali": "cetanā",
+    "term_tibetan": "sems pa",
+    "term_chinese": "思",
+    "category": "psychology",
+    "definition": "Intention or will that directs mental activity. Key mental factor determining karmic quality of actions."
+  },
+  {
+    "term_en": "Name-and-Form",
+    "term_sanskrit": "nāmarūpa",
+    "term_pali": "nāmarūpa",
+    "term_tibetan": "ming gzugs",
+    "term_chinese": "名色",
+    "category": "doctrine",
+    "definition": "Mental and physical phenomena in the fourth link of dependent origination. Represents psycho-physical organism."
+  },
+  {
+    "term_en": "Sense Bases",
+    "term_sanskrit": "āyatana",
+    "term_pali": "āyatana",
+    "term_tibetan": "skye mched",
+    "term_chinese": "入",
+    "category": "doctrine",
+    "definition": "The twelve bases: six sense faculties and six sense objects. Framework for analyzing perceptual process."
+  },
+  {
+    "term_en": "Elements",
+    "term_sanskrit": "dhātu",
+    "term_pali": "dhātu",
+    "term_tibetan": "khams",
+    "term_chinese": "界",
+    "category": "doctrine",
+    "definition": "The eighteen elements: six faculties, six objects, six consciousnesses. Complete analysis of perceptual experience."
+  },
+  {
+    "term_en": "Repentance",
+    "term_sanskrit": "kṣamā",
+    "term_pali": null,
+    "term_tibetan": "bshags pa",
+    "term_chinese": "懺悔",
+    "category": "practice",
+    "definition": "Confession and purification of negative actions through regret, remedial action, and resolve. Essential preliminary practice."
+  },
+  {
+    "term_en": "Kriya Tantra",
+    "term_sanskrit": "kriyātantra",
+    "term_pali": null,
+    "term_tibetan": "bya rgyud",
+    "term_chinese": "作密",
+    "category": "doctrine",
+    "definition": "Action tantra emphasizing external purification and ritual. Lowest of four tantra classes."
+  },
+  {
+    "term_en": "Charya Tantra",
+    "term_sanskrit": "caryātantra",
+    "term_pali": null,
+    "term_tibetan": "spyod rgyud",
+    "term_chinese": "行密",
+    "category": "doctrine",
+    "definition": "Performance tantra balancing external and internal practice. Second of four tantra classes."
+  },
+  {
+    "term_en": "Yoga Tantra",
+    "term_sanskrit": "yogatantra",
+    "term_pali": null,
+    "term_tibetan": "rnal 'byor rgyud",
+    "term_chinese": "瑜伽密",
+    "category": "doctrine",
+    "definition": "Yoga tantra emphasizing internal meditation over ritual. Third of four tantra classes."
+  },
+  {
+    "term_en": "Highest Yoga Tantra",
+    "term_sanskrit": "anuttarayogatantra",
+    "term_pali": null,
+    "term_tibetan": "rnal 'byor bla med kyi rgyud",
+    "term_chinese": "無上瑜伽密",
+    "category": "doctrine",
+    "definition": "Highest tantra class working with subtle body and clear light. Includes generation and completion stages."
+  },
+  {
+    "term_en": "Buddhahood",
+    "term_sanskrit": "buddhatva",
+    "term_pali": "buddhatā",
+    "term_tibetan": "sangs rgyas nyid",
+    "term_chinese": "佛果",
+    "category": "attainment",
+    "definition": "The state of complete enlightenment with elimination of all obscurations and perfection of all qualities. Ultimate goal of Mahayana path."
+  },
+  {
+    "term_en": "Thus-Gone",
+    "term_sanskrit": "tathāgata",
+    "term_pali": "tathāgata",
+    "term_tibetan": "de bzhin gshegs pa",
+    "term_chinese": "如來",
+    "category": "attainment",
+    "definition": "Epithet for buddha meaning 'thus-gone' or 'thus-come.' Indicates realization of suchness."
+  },
+  {
+    "term_en": "Catuṣkoṭi",
+    "term_sanskrit": "catuṣkoṭi",
+    "term_pali": null,
+    "term_tibetan": "mu bzhi",
+    "term_chinese": "四句",
+    "category": "philosophy",
+    "definition": "The four-cornered logic (tetralemma): affirmation, negation, both, neither. Used in Madhyamaka to demonstrate the limits of conceptual thought."
+  },
+  {
+    "term_en": "Svabhāva",
+    "term_sanskrit": "svabhāva",
+    "term_pali": "sabhāva",
+    "term_tibetan": "rang bzhin",
+    "term_chinese": "自性",
+    "category": "philosophy",
+    "definition": "Intrinsic nature or own-being. Madhyamaka denies svabhāva in all phenomena; Abhidharma traditions affirm it for dharmas."
+  },
+  {
+    "term_en": "Prāsaṅgika",
+    "term_sanskrit": "prāsaṅgika",
+    "term_pali": null,
+    "term_tibetan": "thal 'gyur pa",
+    "term_chinese": "歸謬論證派",
+    "category": "philosophy",
+    "definition": "The 'consequentialist' sub-school of Madhyamaka using reductio arguments to expose contradictions without asserting a counter-thesis. Associated with Buddhapālita and Candrakīrti."
+  },
+  {
+    "term_en": "Svātantrika",
+    "term_sanskrit": "svātantrika",
+    "term_pali": null,
+    "term_tibetan": "rang rgyud pa",
+    "term_chinese": "自續派",
+    "category": "philosophy",
+    "definition": "The 'autonomist' sub-school of Madhyamaka that uses independent syllogisms to establish emptiness. Associated with Bhāviveka."
+  },
+  {
+    "term_en": "Prasaṅga",
+    "term_sanskrit": "prasaṅga",
+    "term_pali": null,
+    "term_tibetan": "thal 'gyur",
+    "term_chinese": "歸謬",
+    "category": "philosophy",
+    "definition": "A reductio ad absurdum argument showing that an opponent's position leads to unwanted consequences. The primary logical method of Prāsaṅgika Madhyamaka."
+  },
+  {
+    "term_en": "Vyavahāra",
+    "term_sanskrit": "vyavahāra",
+    "term_pali": "vohāra",
+    "term_tibetan": "tha snyad",
+    "term_chinese": "世俗",
+    "category": "philosophy",
+    "definition": "Conventional designation or worldly transaction. The level of everyday reality acknowledged by Madhyamaka while denying its ultimate existence."
+  },
+  {
+    "term_en": "Paramārtha",
+    "term_sanskrit": "paramārtha",
+    "term_pali": "paramattha",
+    "term_tibetan": "don dam",
+    "term_chinese": "勝義",
+    "category": "philosophy",
+    "definition": "Ultimate reality or highest meaning. In Madhyamaka, the ultimate is the emptiness of inherent existence in all phenomena."
+  },
+  {
+    "term_en": "Niḥsvabhāva",
+    "term_sanskrit": "niḥsvabhāva",
+    "term_pali": null,
+    "term_tibetan": "ngo bo nyid med pa",
+    "term_chinese": "無自性",
+    "category": "philosophy",
+    "definition": "Absence of intrinsic nature. The Madhyamaka thesis that no phenomenon possesses svabhāva, establishing universal emptiness."
+  },
+  {
+    "term_en": "Prapañca",
+    "term_sanskrit": "prapañca",
+    "term_pali": "papañca",
+    "term_tibetan": "spros pa",
+    "term_chinese": "戲論",
+    "category": "philosophy",
+    "definition": "Conceptual proliferation or mental elaboration. The tendency of mind to construct and multiply concepts, which Madhyamaka seeks to still."
+  },
+  {
+    "term_en": "Māyā",
+    "term_sanskrit": "māyā",
+    "term_pali": "māyā",
+    "term_tibetan": "sgyu ma",
+    "term_chinese": "幻",
+    "category": "philosophy",
+    "definition": "Illusion or magical display. In Madhyamaka, phenomena appear like illusions—arising dependently yet lacking inherent existence."
+  },
+  {
+    "term_en": "Apoha",
+    "term_sanskrit": "apoha",
+    "term_pali": null,
+    "term_tibetan": "sel ba",
+    "term_chinese": "遮詮",
+    "category": "philosophy",
+    "definition": "Exclusion theory of meaning developed by Dignāga. Words denote by excluding what is not the referent rather than by pointing to a positive entity."
+  },
+  {
+    "term_en": "Pramāṇa",
+    "term_sanskrit": "pramāṇa",
+    "term_pali": null,
+    "term_tibetan": "tshad ma",
+    "term_chinese": "量",
+    "category": "philosophy",
+    "definition": "Valid cognition or means of knowledge. Dignāga and Dharmakīrti's Buddhist epistemology recognizes perception and inference as the two valid sources of knowledge."
+  },
+  {
+    "term_en": "Trisvabhāva",
+    "term_sanskrit": "trisvabhāva",
+    "term_pali": null,
+    "term_tibetan": "ngo bo nyid gsum",
+    "term_chinese": "三性",
+    "category": "philosophy",
+    "definition": "The three natures (imaginary, dependent, perfected) that constitute Yogācāra's model of reality. Understanding their interrelation leads to awakening."
+  },
+  {
+    "term_en": "Ālaya-vijñāna",
+    "term_sanskrit": "ālayavijñāna",
+    "term_pali": null,
+    "term_tibetan": "kun gzhi rnam shes",
+    "term_chinese": "阿賴耶識",
+    "category": "psychology",
+    "definition": "The storehouse consciousness that holds karmic seeds and underlies experience. A key Yogācāra concept explaining continuity without a permanent self."
+  },
+  {
+    "term_en": "Bīja",
+    "term_sanskrit": "bīja",
+    "term_pali": "bīja",
+    "term_tibetan": "sa bon",
+    "term_chinese": "種子",
+    "category": "psychology",
+    "definition": "Seeds or potencies stored in the ālaya-vijñāna. They ripen under conditions to produce experience, explaining how karma operates across lifetimes."
+  },
+  {
+    "term_en": "Parikalpita",
+    "term_sanskrit": "parikalpita",
+    "term_pali": null,
+    "term_tibetan": "kun brtags",
+    "term_chinese": "遍計所執性",
+    "category": "philosophy",
+    "definition": "The imaginary nature—the superimposition of subject-object duality onto experience. What ordinary beings mistake for reality."
+  },
+  {
+    "term_en": "Paratantra",
+    "term_sanskrit": "paratantra",
+    "term_pali": null,
+    "term_tibetan": "gzhan dbang",
+    "term_chinese": "依他起性",
+    "category": "philosophy",
+    "definition": "The dependent nature—the causal flow of experience arising from conditions. The basis upon which both imaginary and perfected natures operate."
+  },
+  {
+    "term_en": "Pariniṣpanna",
+    "term_sanskrit": "pariniṣpanna",
+    "term_pali": null,
+    "term_tibetan": "yongs grub",
+    "term_chinese": "圓成實性",
+    "category": "philosophy",
+    "definition": "The perfected nature—the dependent nature seen without superimposition. Realized when the imaginary nature is seen through."
+  },
+  {
+    "term_en": "Manas",
+    "term_sanskrit": "manas",
+    "term_pali": "mano",
+    "term_tibetan": "yid",
+    "term_chinese": "末那識",
+    "category": "psychology",
+    "definition": "In Yogācāra, the seventh consciousness (kliṣṭa-manas) that clings to the ālaya-vijñāna as a self, producing the root affliction of self-grasping."
+  },
+  {
+    "term_en": "Vijñaptimātra",
+    "term_sanskrit": "vijñaptimātra",
+    "term_pali": null,
+    "term_tibetan": "rnam rig tsam",
+    "term_chinese": "唯識",
+    "category": "philosophy",
+    "definition": "Consciousness-only or representation-only. The Yogācāra thesis that experienced reality is nothing beyond cognitive representations."
+  },
+  {
+    "term_en": "Vāsanā",
+    "term_sanskrit": "vāsanā",
+    "term_pali": "vāsanā",
+    "term_tibetan": "bag chags",
+    "term_chinese": "習氣",
+    "category": "psychology",
+    "definition": "Habitual tendency or latent impression. Residual traces of past actions and experiences stored in the ālaya-vijñāna that condition future experience."
+  },
+  {
+    "term_en": "Āśraya-parāvṛtti",
+    "term_sanskrit": "āśrayaparāvṛtti",
+    "term_pali": null,
+    "term_tibetan": "gnas gyur",
+    "term_chinese": "轉依",
+    "category": "attainment",
+    "definition": "Transformation of the basis—the fundamental revolution in consciousness where the ālaya-vijñāna becomes mirror-like wisdom. The Yogācāra model of enlightenment."
+  },
+  {
+    "term_en": "Saṃtāna",
+    "term_sanskrit": "saṃtāna",
+    "term_pali": "santāna",
+    "term_tibetan": "rgyud",
+    "term_chinese": "相續",
+    "category": "psychology",
+    "definition": "Mental continuum or stream of consciousness. The continuous flow of mental events that provides personal identity without requiring a permanent self."
+  },
+  {
+    "term_en": "Terma",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gter ma",
+    "term_chinese": "伏藏",
+    "category": "text_genre",
+    "definition": "Treasure texts hidden by Padmasambhava and others for future discovery. Revealed by tertöns when conditions ripen. A distinctive Nyingma institution."
+  },
+  {
+    "term_en": "Tertön",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gter ston",
+    "term_chinese": "掘藏師",
+    "category": "person",
+    "definition": "A treasure revealer who discovers hidden terma texts or objects. Important figures in Nyingma lineage transmission."
+  },
+  {
+    "term_en": "Lung",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "lung",
+    "term_chinese": "口傳",
+    "category": "ritual",
+    "definition": "Oral transmission or reading authorization in Tibetan Buddhism. A formal recitation by a qualified teacher that authorizes a student to study and practice a text."
+  },
+  {
+    "term_en": "Wang",
+    "term_sanskrit": "abhiṣeka",
+    "term_pali": null,
+    "term_tibetan": "dbang",
+    "term_chinese": "灌頂",
+    "category": "ritual",
+    "definition": "Empowerment or initiation ceremony that authorizes a practitioner to engage in specific tantric practices. Typically involves body, speech, mind, and wisdom empowerments."
+  },
+  {
+    "term_en": "Tummo",
+    "term_sanskrit": "caṇḍālī",
+    "term_pali": null,
+    "term_tibetan": "gtum mo",
+    "term_chinese": "拙火",
+    "category": "practice",
+    "definition": "Inner heat yoga, one of the Six Yogas of Nāropa. Generates psychic heat through visualization and breath control to dissolve subtle winds into the central channel."
+  },
+  {
+    "term_en": "Phowa",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "'pho ba",
+    "term_chinese": "遷識法",
+    "category": "practice",
+    "definition": "Consciousness transference practice, one of the Six Yogas of Nāropa. Trains ejection of consciousness at the moment of death to achieve favorable rebirth."
+  },
+  {
+    "term_en": "Tonglen",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "gtong len",
+    "term_chinese": "施受法",
+    "category": "practice",
+    "definition": "The practice of giving and taking—breathing in suffering of others and breathing out well-being. A core lojong practice for developing bodhicitta."
+  },
+  {
+    "term_en": "Lojong",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "blo sbyong",
+    "term_chinese": "修心法",
+    "category": "practice",
+    "definition": "Mind training through pithy slogans (such as the Seven Points of Mind Training by Atīśa/Chekawa) designed to transform adversity into the path of awakening."
+  },
+  {
+    "term_en": "Ngöndro",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "sngon 'gro",
+    "term_chinese": "前行",
+    "category": "practice",
+    "definition": "Preliminary practices that prepare a student for advanced tantric meditation. Typically includes 100,000 each of prostrations, Vajrasattva mantras, mandala offerings, and guru yoga."
+  },
+  {
+    "term_en": "Mahāmudrā",
+    "term_sanskrit": "mahāmudrā",
+    "term_pali": null,
+    "term_tibetan": "phyag rgya chen po",
+    "term_chinese": "大手印",
+    "category": "practice",
+    "definition": "The Great Seal—the highest meditation practice of the Kagyü lineage. Direct recognition of the nature of mind as empty, luminous, and unimpeded."
+  },
+  {
+    "term_en": "Yidam",
+    "term_sanskrit": "iṣṭadevatā",
+    "term_pali": null,
+    "term_tibetan": "yi dam",
+    "term_chinese": "本尊",
+    "category": "practice",
+    "definition": "A meditational deity with whom a practitioner forms a bond through empowerment. The yidam represents the practitioner's own awakened nature."
+  },
+  {
+    "term_en": "Ḍākinī",
+    "term_sanskrit": "ḍākinī",
+    "term_pali": null,
+    "term_tibetan": "mkha' 'gro ma",
+    "term_chinese": "空行母",
+    "category": "person",
+    "definition": "A female embodiment of enlightened energy, often appearing as a protector, guide, or consort in Vajrayāna. Literally 'sky-goer.' Yeshe Tsogyal is a famous example."
+  },
+  {
+    "term_en": "Tulku",
+    "term_sanskrit": "nirmāṇakāya",
+    "term_pali": null,
+    "term_tibetan": "sprul sku",
+    "term_chinese": "轉世活佛",
+    "category": "person",
+    "definition": "A recognized incarnation of a deceased Buddhist master, identified through divination and testing. A distinctive Tibetan institution for maintaining lineage continuity."
+  },
+  {
+    "term_en": "Torma",
+    "term_sanskrit": "bali",
+    "term_pali": null,
+    "term_tibetan": "gtor ma",
+    "term_chinese": "食子",
+    "category": "ritual",
+    "definition": "A ritual offering cake made from barley flour and butter, sculpted into various forms. Used in tantric ceremonies as offerings to deities and protectors."
+  },
+  {
+    "term_en": "Samaya",
+    "term_sanskrit": "samaya",
+    "term_pali": null,
+    "term_tibetan": "dam tshig",
+    "term_chinese": "三昧耶",
+    "category": "ethics",
+    "definition": "Sacred commitments undertaken during tantric empowerment. Breaking samaya is considered one of the most serious violations in Vajrayāna."
+  },
+  {
+    "term_en": "Trikāya",
+    "term_sanskrit": "trikāya",
+    "term_pali": null,
+    "term_tibetan": "sku gsum",
+    "term_chinese": "三身",
+    "category": "doctrine",
+    "definition": "The three bodies of a buddha: dharmakāya (truth body), saṃbhogakāya (enjoyment body), and nirmāṇakāya (emanation body). Describes how buddhahood manifests at different levels."
+  },
+  {
+    "term_en": "Nirmāṇakāya",
+    "term_sanskrit": "nirmāṇakāya",
+    "term_pali": null,
+    "term_tibetan": "sprul sku",
+    "term_chinese": "化身",
+    "category": "doctrine",
+    "definition": "The emanation body of a buddha that appears in the world for the benefit of beings. Śākyamuni Buddha's physical form is considered a nirmāṇakāya."
+  },
+  {
+    "term_en": "Dharmakāya",
+    "term_sanskrit": "dharmakāya",
+    "term_pali": null,
+    "term_tibetan": "chos sku",
+    "term_chinese": "法身",
+    "category": "doctrine",
+    "definition": "The truth body or reality body of a buddha. The ultimate nature of mind free from all obscurations, identified with emptiness itself."
+  },
+  {
+    "term_en": "Saṃbhogakāya",
+    "term_sanskrit": "saṃbhogakāya",
+    "term_pali": null,
+    "term_tibetan": "longs sku",
+    "term_chinese": "報身",
+    "category": "doctrine",
+    "definition": "The enjoyment body of a buddha, visible only to advanced bodhisattvas. Manifests in pure lands as luminous form adorned with the marks and signs of buddhahood."
+  },
+  {
+    "term_en": "Dzogchen",
+    "term_sanskrit": "atiyoga",
+    "term_pali": null,
+    "term_tibetan": "rdzogs chen",
+    "term_chinese": "大圓滿",
+    "category": "practice",
+    "definition": "The Great Perfection—the highest teaching of the Nyingma school. Direct introduction to the nature of mind as primordially pure and spontaneously present."
+  },
+  {
+    "term_en": "Trekchö",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "khregs chod",
+    "term_chinese": "立斷",
+    "category": "practice",
+    "definition": "Cutting through rigidity—the first phase of Dzogchen practice. Direct recognition of the natural state of awareness, primordial purity (ka dag)."
+  },
+  {
+    "term_en": "Tögal",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "thod rgal",
+    "term_chinese": "頓超",
+    "category": "practice",
+    "definition": "Crossing over directly—the second phase of Dzogchen practice. Uses specific postures and gazing to manifest the luminous display of spontaneous presence (lhun grub)."
+  },
+  {
+    "term_en": "Rigpa",
+    "term_sanskrit": "vidyā",
+    "term_pali": null,
+    "term_tibetan": "rig pa",
+    "term_chinese": "明覺",
+    "category": "psychology",
+    "definition": "Pure awareness or innate wakefulness in Dzogchen. The fundamental nature of mind that is empty, luminous, and unconfined."
+  },
+  {
+    "term_en": "Gōng'àn",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "公案",
+    "category": "practice",
+    "definition": "A public case or precedent used in Chan/Zen as a meditation focus. Famous examples include 'What is the sound of one hand clapping?' and 'Zhaozhou's dog.' Known in Japanese as kōan.",
+    "aliases": [
+      "koan",
+      "gongan",
+      "kung-an"
+    ]
+  },
+  {
+    "term_en": "Niànfó",
+    "term_sanskrit": "buddhānusmṛti",
+    "term_pali": "buddhānussati",
+    "term_tibetan": "sangs rgyas rjes dran",
+    "term_chinese": "念佛",
+    "category": "practice",
+    "definition": "Buddha-recollection or Buddha-remembrance. In Chinese Pure Land, the practice of invoking Amitābha Buddha's name (Namo Amituofo) to attain rebirth in Sukhāvatī.",
+    "aliases": [
+      "nianfo",
+      "nembutsu",
+      "buddha recollection"
+    ]
+  },
+  {
+    "term_en": "Huàtóu",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "話頭",
+    "category": "practice",
+    "definition": "The critical phrase or 'word-head' before a thought arises. A Chan meditation technique focusing on the questioning sensation itself rather than the intellectual content.",
+    "aliases": [
+      "huatou",
+      "hua-t'ou",
+      "word head"
+    ]
+  },
+  {
+    "term_en": "Zhǐguān",
+    "term_sanskrit": "śamatha-vipaśyanā",
+    "term_pali": null,
+    "term_tibetan": "zhi gnas lhag mthong",
+    "term_chinese": "止觀",
+    "category": "practice",
+    "definition": "Cessation and contemplation—the Tiantai meditation system developed by Zhiyi. Integrates calming (zhǐ) and insight (guān) as inseparable aspects of practice.",
+    "aliases": [
+      "zhiguan",
+      "chih-kuan"
+    ]
+  },
+  {
+    "term_en": "Yuánróng",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "圓融",
+    "category": "philosophy",
+    "definition": "Perfect interfusion or mutual containment. A Huayan and Tiantai philosophical principle that all phenomena interpenetrate without obstruction.",
+    "aliases": [
+      "yuanrong",
+      "perfect interfusion"
+    ]
+  },
+  {
+    "term_en": "Fǎjiè",
+    "term_sanskrit": "dharmadhātu",
+    "term_pali": "dhammadhātu",
+    "term_tibetan": "chos dbyings",
+    "term_chinese": "法界",
+    "category": "philosophy",
+    "definition": "The dharma-realm or totality of reality. In Huayan, the universe as an infinite web of mutual interpenetration. Fazang's Four Dharmadhātus are a key doctrinal framework.",
+    "aliases": [
+      "fajie",
+      "dharmadhatu",
+      "dharma realm"
+    ]
+  },
+  {
+    "term_en": "Fóxìng",
+    "term_sanskrit": "buddhadhātu",
+    "term_pali": null,
+    "term_tibetan": "sangs rgyas kyi khams",
+    "term_chinese": "佛性",
+    "category": "doctrine",
+    "definition": "Buddha-nature as understood in Chinese Buddhism. The innate capacity for awakening present in all sentient beings. Central to the tathāgatagarbha doctrine in East Asian traditions.",
+    "aliases": [
+      "foxing",
+      "fo xing"
+    ]
+  },
+  {
+    "term_en": "Tathāgatagarbha",
+    "term_sanskrit": "tathāgatagarbha",
+    "term_pali": null,
+    "term_tibetan": "de bzhin gshegs pa'i snying po",
+    "term_chinese": "如來藏",
+    "category": "doctrine",
+    "definition": "The embryo or womb of the Tathāgata—the innate potential for buddhahood within all beings. A major Mahāyāna doctrine bridging emptiness and buddha-nature teachings."
+  },
+  {
+    "term_en": "Jìngtǔ",
+    "term_sanskrit": "sukhāvatī",
+    "term_pali": null,
+    "term_tibetan": "bde ba can",
+    "term_chinese": "淨土",
+    "category": "cosmology",
+    "definition": "Pure Land—a buddha-field created by a buddha's merit, especially Amitābha's Sukhāvatī. In Chinese/Japanese Pure Land Buddhism, rebirth there is the primary soteriological goal.",
+    "aliases": [
+      "jingtu",
+      "pure land",
+      "sukhavati"
+    ]
+  },
+  {
+    "term_en": "Amitābha",
+    "term_sanskrit": "amitābha",
+    "term_pali": null,
+    "term_tibetan": "'od dpag med",
+    "term_chinese": "阿彌陀佛",
+    "category": "person",
+    "definition": "The Buddha of Infinite Light who presides over the Western Pure Land (Sukhāvatī). Central to East Asian Pure Land Buddhism. Invoked as 'Namo Amituofo' in Chinese tradition."
+  },
+  {
+    "term_en": "Zhēnrú",
+    "term_sanskrit": "tathatā",
+    "term_pali": "tathatā",
+    "term_tibetan": "de bzhin nyid",
+    "term_chinese": "真如",
+    "category": "philosophy",
+    "definition": "Suchness or thusness—reality as it truly is, beyond conceptual elaboration. A key term in Yogācāra and East Asian Buddhism for the unconditioned nature of all phenomena.",
+    "aliases": [
+      "zhenru",
+      "tathata",
+      "suchness"
+    ]
+  },
+  {
+    "term_en": "Yīniàn Sānqiān",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "一念三千",
+    "category": "doctrine",
+    "definition": "Three thousand realms in a single moment of thought. Tiantai doctrine that each moment of consciousness contains all possible states of existence. Expresses Zhiyi's totalistic vision.",
+    "aliases": [
+      "ichinen sanzen",
+      "3000 realms in one thought"
+    ]
+  },
+  {
+    "term_en": "Dùnwù",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "頓悟",
+    "category": "doctrine",
+    "definition": "Sudden awakening—the Chan/Zen teaching that enlightenment occurs in a single transformative moment rather than through gradual stages. Associated with the Southern School of Huineng.",
+    "aliases": [
+      "dunwu",
+      "sudden enlightenment"
+    ]
+  },
+  {
+    "term_en": "Jiànwù",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "漸悟",
+    "category": "doctrine",
+    "definition": "Gradual awakening—the teaching that enlightenment unfolds through progressive stages of practice and realization. Associated with the Northern School of Shenxiu.",
+    "aliases": [
+      "jianwu",
+      "gradual enlightenment"
+    ]
+  },
+  {
+    "term_en": "Chánshī",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "禪師",
+    "category": "person",
+    "definition": "A Chan master—an honorific for recognized Chan/Zen teachers. Famous examples include Huineng, Mazu, Linji, and Zhaozhou.",
+    "aliases": [
+      "chanshi",
+      "zenji",
+      "zen master"
+    ]
+  },
+  {
+    "term_en": "Xīnxìng",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "心性",
+    "category": "philosophy",
+    "definition": "Mind-nature or the inherent nature of mind. A central concept in Chan Buddhism referring to the original, pure nature of consciousness that is always present.",
+    "aliases": [
+      "xinxing",
+      "mind nature"
+    ]
+  },
+  {
+    "term_en": "Abhidharmakośa",
+    "term_sanskrit": "abhidharmakośa",
+    "term_pali": null,
+    "term_tibetan": "chos mngon pa'i mdzod",
+    "term_chinese": "阿毘達磨俱舍論",
+    "category": "text_genre",
+    "definition": "Vasubandhu's Treasury of Abhidharma. The most influential systematic presentation of Sarvāstivāda-Vaibhāṣika philosophy, studied across all Buddhist traditions."
+  },
+  {
+    "term_en": "Visuddhimagga",
+    "term_sanskrit": null,
+    "term_pali": "visuddhimagga",
+    "term_tibetan": null,
+    "term_chinese": "清淨道論",
+    "category": "text_genre",
+    "definition": "The Path of Purification by Buddhaghosa. The most comprehensive Theravāda meditation manual, systematically covering morality, concentration, and wisdom."
+  },
+  {
+    "term_en": "Bodhicaryāvatāra",
+    "term_sanskrit": "bodhicaryāvatāra",
+    "term_pali": null,
+    "term_tibetan": "byang chub sems dpa'i spyod pa la 'jug pa",
+    "term_chinese": "入菩薩行論",
+    "category": "text_genre",
+    "definition": "Śāntideva's guide to the bodhisattva path. Celebrated for its ninth chapter on wisdom (prajñā) and its teachings on exchanging self and other."
+  },
+  {
+    "term_en": "Vimalakīrtinirdeśa",
+    "term_sanskrit": "vimalakīrtinirdeśa",
+    "term_pali": null,
+    "term_tibetan": "dri ma med par grags pa'i bstan pa",
+    "term_chinese": "維摩詰經",
+    "category": "text_genre",
+    "definition": "The teaching of Vimalakīrti—a Mahāyāna sūtra featuring a lay householder who defeats learned monks in debate. Famous for its 'thunderous silence' on nonduality."
+  },
+  {
+    "term_en": "Yogācārabhūmi",
+    "term_sanskrit": "yogācārabhūmi",
+    "term_pali": null,
+    "term_tibetan": "rnal 'byor spyod pa'i sa",
+    "term_chinese": "瑜伽師地論",
+    "category": "text_genre",
+    "definition": "The Stages of the Yoga Practitioner, attributed to Asaṅga/Maitreya. A massive encyclopedic work covering all stages of the path in the Yogācāra tradition."
+  },
+  {
+    "term_en": "Abhisamayālaṅkāra",
+    "term_sanskrit": "abhisamayālaṅkāra",
+    "term_pali": null,
+    "term_tibetan": "mngon rtogs rgyan",
+    "term_chinese": "現觀莊嚴論",
+    "category": "text_genre",
+    "definition": "The Ornament of Clear Realization, attributed to Maitreya. Systematizes the Prajñāpāramitā teachings into eight topics and seventy points."
+  },
+  {
+    "term_en": "Dhammapada",
+    "term_sanskrit": "dharmapada",
+    "term_pali": "dhammapada",
+    "term_tibetan": "chos kyi tshigs su bcad pa",
+    "term_chinese": "法句經",
+    "category": "text_genre",
+    "definition": "Verses of the Dharma—a collection of 423 verses attributed to the Buddha. One of the most widely read Buddhist texts, included in the Khuddaka Nikāya."
+  },
+  {
+    "term_en": "Milindapañha",
+    "term_sanskrit": null,
+    "term_pali": "milindapañha",
+    "term_tibetan": null,
+    "term_chinese": "彌蘭陀王問經",
+    "category": "text_genre",
+    "definition": "The Questions of Milinda—dialogues between the Indo-Greek king Menander I and the Buddhist monk Nāgasena. Famous for its chariot analogy illustrating non-self."
+  },
+  {
+    "term_en": "Bardo Thödol",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": "bar do thos grol",
+    "term_chinese": "中陰聞教得度",
+    "category": "text_genre",
+    "definition": "Liberation Through Hearing in the Intermediate State (Tibetan Book of the Dead). A Nyingma terma text guiding consciousness through the bardo experiences after death."
+  },
+  {
+    "term_en": "Awakening of Faith",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "大乘起信論",
+    "category": "text_genre",
+    "definition": "The Awakening of Faith in the Mahāyāna, attributed to Aśvaghoṣa. Highly influential in East Asian Buddhism for its synthesis of tathāgatagarbha and ālayavijñāna doctrines.",
+    "aliases": [
+      "dasheng qixin lun"
+    ]
+  },
+  {
+    "term_en": "Mahāprajñāpāramitā Śāstra",
+    "term_sanskrit": "mahāprajñāpāramitā śāstra",
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "大智度論",
+    "category": "text_genre",
+    "definition": "The Great Treatise on the Perfection of Wisdom, attributed to Nāgārjuna. A massive commentary preserved only in Chinese translation (Kumārajīva). Encyclopedic resource on Mahāyāna."
+  },
+  {
+    "term_en": "Maitrī",
+    "term_sanskrit": "maitrī",
+    "term_pali": "mettā",
+    "term_tibetan": "byams pa",
+    "term_chinese": "慈",
+    "category": "practice",
+    "definition": "Loving-kindness—the wish for all beings to be happy. One of the four brahma-vihāras. Cultivated through systematic meditation extending goodwill to self, loved ones, neutrals, and enemies.",
+    "aliases": [
+      "metta",
+      "loving kindness",
+      "lovingkindness"
+    ]
+  },
+  {
+    "term_en": "Karuṇā",
+    "term_sanskrit": "karuṇā",
+    "term_pali": "karuṇā",
+    "term_tibetan": "snying rje",
+    "term_chinese": "悲",
+    "category": "practice",
+    "definition": "Compassion—the wish for all beings to be free from suffering. A brahma-vihāra and the heart of the bodhisattva path. Mahākaruṇā (great compassion) is a defining quality of buddhahood.",
+    "aliases": [
+      "great compassion"
+    ]
+  },
+  {
+    "term_en": "Muditā",
+    "term_sanskrit": "muditā",
+    "term_pali": "muditā",
+    "term_tibetan": "dga' ba",
+    "term_chinese": "喜",
+    "category": "practice",
+    "definition": "Sympathetic joy—rejoicing in others' happiness and success. One of the four brahma-vihāras. Antidote to jealousy and envy."
+  },
+  {
+    "term_en": "Upekṣā",
+    "term_sanskrit": "upekṣā",
+    "term_pali": "upekkhā",
+    "term_tibetan": "btang snyoms",
+    "term_chinese": "捨",
+    "category": "practice",
+    "definition": "Equanimity—even-minded balance toward all beings and experiences. One of the four brahma-vihāras. Not indifference but impartial care."
+  },
+  {
+    "term_en": "Satipaṭṭhāna",
+    "term_sanskrit": "smṛtyupasthāna",
+    "term_pali": "satipaṭṭhāna",
+    "term_tibetan": "dran pa nye bar gzhag pa",
+    "term_chinese": "四念處",
+    "category": "practice",
+    "definition": "The four foundations of mindfulness: body, feelings, mind, and mental objects. The Satipaṭṭhāna Sutta is considered the most important meditation instruction in the Pali Canon."
+  },
+  {
+    "term_en": "Ānāpānasati",
+    "term_sanskrit": "ānāpānasmṛti",
+    "term_pali": "ānāpānasati",
+    "term_tibetan": "dbugs rngub pa dang 'byung ba dran pa",
+    "term_chinese": "安般念",
+    "category": "practice",
+    "definition": "Mindfulness of breathing—a foundational meditation practice taught by the Buddha. The sixteen steps of ānāpānasati progress from bodily awareness through to liberation."
+  },
+  {
+    "term_en": "Abhijñā",
+    "term_sanskrit": "abhijñā",
+    "term_pali": "abhiññā",
+    "term_tibetan": "mngon shes",
+    "term_chinese": "神通",
+    "category": "attainment",
+    "definition": "Higher knowledge or supranormal powers attained through deep concentration. Traditionally six: divine eye, divine ear, mind-reading, recollection of past lives, psychic powers, and destruction of āsravas."
+  },
+  {
+    "term_en": "Śīla",
+    "term_sanskrit": "śīla",
+    "term_pali": "sīla",
+    "term_tibetan": "tshul khrims",
+    "term_chinese": "戒",
+    "category": "ethics",
+    "definition": "Ethical discipline or moral conduct. The first of the three trainings (along with samādhi and prajñā). Foundation of the Buddhist path, ranging from five precepts to full monastic vinaya."
+  },
+  {
+    "term_en": "Samādhi",
+    "term_sanskrit": "samādhi",
+    "term_pali": "samādhi",
+    "term_tibetan": "ting nge 'dzin",
+    "term_chinese": "三昧",
+    "category": "practice",
+    "definition": "Meditative absorption or concentration. The second of the three trainings. One-pointed focus of mind ranging from access concentration to the formless attainments."
+  },
+  {
+    "term_en": "Prajñā",
+    "term_sanskrit": "prajñā",
+    "term_pali": "paññā",
+    "term_tibetan": "shes rab",
+    "term_chinese": "般若",
+    "category": "philosophy",
+    "definition": "Wisdom or insight—direct understanding of the nature of reality. The third of the three trainings and the sixth pāramitā. Prajñāpāramitā (perfection of wisdom) is central to Mahāyāna."
+  },
+  {
+    "term_en": "Dharmadhātu",
+    "term_sanskrit": "dharmadhātu",
+    "term_pali": "dhammadhātu",
+    "term_tibetan": "chos dbyings",
+    "term_chinese": "法界",
+    "category": "philosophy",
+    "definition": "The reality-realm or expanse of phenomena. In Huayan, the infinite interpenetration of all dharmas. In Yogācāra, the purified nature of reality."
+  },
+  {
+    "term_en": "Pudgala",
+    "term_sanskrit": "pudgala",
+    "term_pali": "puggala",
+    "term_tibetan": "gang zag",
+    "term_chinese": "補特伽羅",
+    "category": "philosophy",
+    "definition": "Person or individual. The Pudgalavāda school controversially affirmed a 'person' that is neither identical to nor different from the aggregates, sparking major philosophical debate."
+  },
+  {
+    "term_en": "Dharmatā",
+    "term_sanskrit": "dharmatā",
+    "term_pali": "dhammatā",
+    "term_tibetan": "chos nyid",
+    "term_chinese": "法性",
+    "category": "philosophy",
+    "definition": "The nature of phenomena or reality as it is. In Dzogchen, the dharmata bardo is the period after death when reality's nature manifests directly."
+  },
+  {
+    "term_en": "Ālambana",
+    "term_sanskrit": "ālambana",
+    "term_pali": "ārammaṇa",
+    "term_tibetan": "dmigs pa",
+    "term_chinese": "所緣",
+    "category": "psychology",
+    "definition": "Cognitive object or object of mental focus. In Yogācāra epistemology, the question of whether ālambana can be external to consciousness is central."
+  },
+  {
+    "term_en": "Hetu-pratyaya",
+    "term_sanskrit": "hetu-pratyaya",
+    "term_pali": "hetu-paccaya",
+    "term_tibetan": "rgyu rkyen",
+    "term_chinese": "因緣",
+    "category": "philosophy",
+    "definition": "Cause and condition—the two factors that produce all conditioned phenomena. Detailed analysis of causation is fundamental to Abhidharma philosophy."
+  },
+  {
+    "term_en": "Saṃskāra",
+    "term_sanskrit": "saṃskāra",
+    "term_pali": "saṅkhāra",
+    "term_tibetan": "'du byed",
+    "term_chinese": "行",
+    "category": "psychology",
+    "definition": "Volitional formations or mental constructions. The fourth aggregate and second link of dependent origination. The karmic force that shapes future experience."
+  },
+  {
+    "term_en": "Kleśa",
+    "term_sanskrit": "kleśa",
+    "term_pali": "kilesa",
+    "term_tibetan": "nyon mongs",
+    "term_chinese": "煩惱",
+    "category": "psychology",
+    "definition": "Mental afflictions or defilements—the root causes of suffering. Primary kleśas include desire, aversion, and ignorance. Their elimination is the goal of the Buddhist path."
+  },
+  {
+    "term_en": "Āvaraṇa",
+    "term_sanskrit": "āvaraṇa",
+    "term_pali": null,
+    "term_tibetan": "sgrib pa",
+    "term_chinese": "障",
+    "category": "psychology",
+    "definition": "Obscuration or obstruction. Mahāyāna identifies two: kleśāvaraṇa (afflictive obscurations) and jñeyāvaraṇa (cognitive obscurations). Buddhahood requires removing both."
+  },
+  {
+    "term_en": "Bhūmi",
+    "term_sanskrit": "bhūmi",
+    "term_pali": "bhūmi",
+    "term_tibetan": "sa",
+    "term_chinese": "地",
+    "category": "path",
+    "definition": "Stage or ground on the bodhisattva path. The Daśabhūmika Sūtra describes ten bhūmis from Joyful to Cloud of Dharma, each characterized by specific realizations and practices."
+  },
+  {
+    "term_en": "Gotra",
+    "term_sanskrit": "gotra",
+    "term_pali": "gotra",
+    "term_tibetan": "rigs",
+    "term_chinese": "種性",
+    "category": "doctrine",
+    "definition": "Spiritual lineage or family determining one's capacity for awakening. Yogācāra distinguishes five gotras. The question of whether all beings possess buddha-gotra is a major doctrinal debate."
+  },
+  {
+    "term_en": "Upāya-kauśalya",
+    "term_sanskrit": "upāyakauśalya",
+    "term_pali": "upāyakosalla",
+    "term_tibetan": "thabs mkhas",
+    "term_chinese": "方便善巧",
+    "category": "doctrine",
+    "definition": "Skill in means—a buddha or bodhisattva's ability to adapt teachings to the capacities and circumstances of beings. Justifies the diversity of Buddhist methods and vehicles."
+  },
+  {
+    "term_en": "Kumārajīva",
+    "term_sanskrit": "kumārajīva",
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "鳩摩羅什",
+    "category": "person",
+    "definition": "The great Kuchean-Indian translator (344-413 CE) who rendered major Mahāyāna texts into Chinese. His translations of the Heart Sūtra, Lotus Sūtra, and Mādhyamaka texts shaped East Asian Buddhism."
+  },
+  {
+    "term_en": "Xuanzang",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "玄奘",
+    "category": "person",
+    "definition": "Chinese Buddhist monk (602-664 CE) who traveled to India and brought back hundreds of texts. His translations founded the Faxiang (Yogācāra) school in China. Subject of Journey to the West."
+  },
+  {
+    "term_en": "Zhiyi",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "智顗",
+    "category": "person",
+    "definition": "The de facto founder of the Tiantai school (538-597 CE). Systematized Buddhist doctrine through the panjiao classification and developed the zhǐguān meditation system."
+  },
+  {
+    "term_en": "Fazang",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "法藏",
+    "category": "person",
+    "definition": "The third patriarch and systematizer of the Huayan school (643-712 CE). Developed the doctrine of the four dharmadhātus and the famous gold lion metaphor for interpenetration."
+  },
+  {
+    "term_en": "Huineng",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "惠能",
+    "category": "person",
+    "definition": "The Sixth Patriarch of Chan Buddhism (638-713 CE). His Platform Sūtra advocates sudden awakening and is the only Chinese-authored text honored with the title 'sūtra.'"
+  },
+  {
+    "term_en": "Mazu Daoyi",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "馬祖道一",
+    "category": "person",
+    "definition": "Influential Tang dynasty Chan master (709-788 CE). Famous for shocking teaching methods and the declaration 'this mind is Buddha.' His lineage produced many of Chan's greatest masters."
+  },
+  {
+    "term_en": "Linji Yixuan",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "臨濟義玄",
+    "category": "person",
+    "definition": "Founder of the Linji (Rinzai) school of Chan (d. 866 CE). Known for his 'four shouts' and fierce teaching style. His recorded sayings (Línjì Lù) are a classic of Chan literature."
+  },
+  {
+    "term_en": "Dōgen",
+    "term_sanskrit": null,
+    "term_pali": null,
+    "term_tibetan": null,
+    "term_chinese": "道元",
+    "category": "person",
+    "definition": "Japanese founder of Sōtō Zen (1200-1253 CE). His Shōbōgenzō is a masterwork of Buddhist philosophy. Emphasized shikantaza (just sitting) as the practice of enlightenment itself."
+  },
+  {
+    "term_en": "Sukhāvatī",
+    "term_sanskrit": "sukhāvatī",
+    "term_pali": null,
+    "term_tibetan": "bde ba can",
+    "term_chinese": "極樂世界",
+    "category": "cosmology",
+    "definition": "The Land of Ultimate Bliss—Amitābha Buddha's western pure land. Described in the Longer and Shorter Sukhāvatīvyūha sūtras. Primary goal of Pure Land devotion."
+  },
+  {
+    "term_en": "Cakravartin",
+    "term_sanskrit": "cakravartin",
+    "term_pali": "cakkavatti",
+    "term_tibetan": "'khor los sgyur ba",
+    "term_chinese": "轉輪聖王",
+    "category": "cosmology",
+    "definition": "A wheel-turning monarch who rules justly over the world. In Buddhist cosmology, a being of immense merit who may choose either worldly sovereignty or buddhahood."
+  },
+  {
+    "term_en": "Meru",
+    "term_sanskrit": "meru",
+    "term_pali": "sineru",
+    "term_tibetan": "ri rab",
+    "term_chinese": "須彌山",
+    "category": "cosmology",
+    "definition": "The axial mountain at the center of Buddhist cosmology. Surrounded by concentric rings of mountains and oceans, with the heavens above and hells below."
+  },
+  {
+    "term_en": "Prātimokṣa",
+    "term_sanskrit": "prātimokṣa",
+    "term_pali": "pātimokkha",
+    "term_tibetan": "so sor thar pa",
+    "term_chinese": "波羅提木叉",
+    "category": "ethics",
+    "definition": "The individual liberation code of monastic rules recited fortnightly. Contains 227 rules for bhikkhus in Theravāda and 250 in the Mūlasarvāstivāda tradition."
+  },
+  {
+    "term_en": "Pratītyasamutpāda (12 Links)",
+    "term_sanskrit": "dvādaśāṅga pratītyasamutpāda",
+    "term_pali": null,
+    "term_tibetan": "rten 'brel yan lag bcu gnyis",
+    "term_chinese": "十二因緣",
+    "category": "doctrine",
+    "definition": "The twelve links of dependent origination: ignorance, formations, consciousness, name-and-form, six sense bases, contact, feeling, craving, clinging, becoming, birth, aging-and-death."
+  },
+  {
+    "term_en": "Āśrava",
+    "term_sanskrit": "āśrava",
+    "term_pali": "āsava",
+    "term_tibetan": "zag pa",
+    "term_chinese": "漏",
+    "category": "psychology",
+    "definition": "Outflows, taints, or cankers. Three or four mental defilements (sensual desire, existence, ignorance, and sometimes views) whose destruction marks the attainment of arhatship."
+  },
+  {
+    "term_en": "Bodhimaṇḍa",
+    "term_sanskrit": "bodhimaṇḍa",
+    "term_pali": "bodhimaṇḍa",
+    "term_tibetan": "byang chub snying po",
+    "term_chinese": "菩提道場",
+    "category": "institution",
+    "definition": "The seat or place of awakening—originally the spot under the Bodhi tree at Bodh Gaya where Siddhārtha became the Buddha. Also used metaphorically for any place of practice."
+  },
+  {
+    "term_en": "Stūpa",
+    "term_sanskrit": "stūpa",
+    "term_pali": "thūpa",
+    "term_tibetan": "mchod rten",
+    "term_chinese": "塔",
+    "category": "institution",
+    "definition": "A reliquary monument housing the remains or relics of a buddha or saint. A focus of devotion and circumambulation. Architecture varies from Indian dome to East Asian pagoda forms."
+  },
+  {
+    "term_en": "Vihāra",
+    "term_sanskrit": "vihāra",
+    "term_pali": "vihāra",
+    "term_tibetan": "gtsug lag khang",
+    "term_chinese": "精舍",
+    "category": "institution",
+    "definition": "A Buddhist monastery or dwelling place for monks. Originally simple rain retreats, they developed into major centers of learning. Nālandā and Vikramaśīla were famous vihāras."
+  },
+  {
+    "term_en": "Bhikṣuṇī",
+    "term_sanskrit": "bhikṣuṇī",
+    "term_pali": "bhikkhunī",
+    "term_tibetan": "dge slong ma",
+    "term_chinese": "比丘尼",
+    "category": "person",
+    "definition": "A fully ordained Buddhist nun. The bhikṣuṇī saṅgha was established by the Buddha at the request of Mahāpajāpatī Gotamī. The lineage continues in East Asian traditions."
+  },
+  {
+    "term_en": "Ösel",
+    "term_sanskrit": "prabhāsvara",
+    "term_pali": null,
+    "term_tibetan": "'od gsal",
+    "term_chinese": "光明",
+    "category": "practice",
+    "definition": "Clear light or luminosity practice, one of the Six Yogas of Nāropa. Recognition of the nature of mind in the dream state and at death as luminous awareness."
+  },
+  {
+    "term_en": "Milam",
+    "term_sanskrit": "svapna",
+    "term_pali": null,
+    "term_tibetan": "rmi lam",
+    "term_chinese": "夢瑜伽",
+    "category": "practice",
+    "definition": "Dream yoga, one of the Six Yogas of Nāropa. Training in lucid dreaming to recognize the illusory nature of experience, preparing for bardo recognition at death."
+  },
+  {
+    "term_en": "Gyülü",
+    "term_sanskrit": "māyādeha",
+    "term_pali": null,
+    "term_tibetan": "sgyu lus",
+    "term_chinese": "幻身",
+    "category": "practice",
+    "definition": "Illusory body practice, one of the Six Yogas of Nāropa. Cultivating the understanding that the body is like an illusion, ultimately transforming it into the pure illusory body."
+  },
+  {
+    "term_en": "Pāramitā",
+    "term_sanskrit": "pāramitā",
+    "term_pali": "pāramī",
+    "term_tibetan": "pha rol tu phyin pa",
+    "term_chinese": "波羅蜜多",
+    "category": "path",
+    "definition": "Perfection or transcendent virtue. The six (or ten) pāramitās are the bodhisattva's path: generosity, morality, patience, vigor, meditation, and wisdom."
+  },
+  {
+    "term_en": "Dhāraṇī",
+    "term_sanskrit": "dhāraṇī",
+    "term_pali": null,
+    "term_tibetan": "gzungs",
+    "term_chinese": "陀羅尼",
+    "category": "practice",
+    "definition": "A mnemonic formula, incantation, or sustained attention. Longer and more content-bearing than mantras, dhāraṇīs are used for protection, purification, and generating merit."
+  },
+  {
+    "term_en": "Bodhipakkhiyā Dhammā",
+    "term_sanskrit": "bodhipakṣya dharma",
+    "term_pali": "bodhipakkhiyā dhammā",
+    "term_tibetan": "byang chub kyi phyogs kyi chos",
+    "term_chinese": "三十七菩提分法",
+    "category": "path",
+    "definition": "The 37 factors of awakening: four foundations of mindfulness, four right efforts, four bases of power, five faculties, five powers, seven factors of awakening, and the noble eightfold path."
+  },
+  {
+    "term_en": "Buddhakṣetra",
+    "term_sanskrit": "buddhakṣetra",
+    "term_pali": null,
+    "term_tibetan": "sangs rgyas kyi zhing",
+    "term_chinese": "佛國土",
+    "category": "cosmology",
+    "definition": "A buddha-field or buddha-land. Each buddha's sphere of influence where beings can be taught. Mahāyāna describes infinite buddha-fields across space and time."
+  },
+  {
+    "term_en": "Praṇidhāna",
+    "term_sanskrit": "praṇidhāna",
+    "term_pali": "paṇidhi",
+    "term_tibetan": "smon lam",
+    "term_chinese": "誓願",
+    "category": "practice",
+    "definition": "Aspiration or vow. A bodhisattva's formal resolve directing future lifetimes toward benefiting beings. Amitābha's 48 vows and Samantabhadra's 10 vows are famous examples."
+  },
+  {
+    "term_en": "Dhyāna",
+    "term_sanskrit": "dhyāna",
+    "term_pali": "jhāna",
+    "term_tibetan": "bsam gtan",
+    "term_chinese": "禪那",
+    "category": "practice",
+    "definition": "Meditative absorption. Four form-realm dhyānas progress from applied thought to equanimity. The Chinese term chán (禪) derives from this word."
+  },
+  {
+    "term_en": "Anuttara-samyak-saṃbodhi",
+    "term_sanskrit": "anuttarasamyaksaṃbodhi",
+    "term_pali": "anuttara sammā sambodhi",
+    "term_tibetan": "bla na med pa yang dag par rdzogs pa'i byang chub",
+    "term_chinese": "阿耨多羅三藐三菩提",
+    "category": "attainment",
+    "definition": "Unsurpassed complete perfect awakening—the full enlightenment of a buddha. Distinguished from the awakening of śrāvakas and pratyekabuddhas."
+  },
+  {
+    "term_en": "Sugata",
+    "term_sanskrit": "sugata",
+    "term_pali": "sugata",
+    "term_tibetan": "bde bar gshegs pa",
+    "term_chinese": "善逝",
+    "category": "attainment",
+    "definition": "Well-gone or happily departed—an epithet of the Buddha indicating one who has gone to the excellent state and will not return to saṃsāra."
+  }
+]

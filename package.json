@@ -1,0 +1,30 @@
+{
+  "name": "buddhist-rag",
+  "version": "2.0.0",
+  "description": "Bodhidharma: Buddhist philosophy RAG with multilingual concept search",
+  "type": "module",
+  "main": "cli.ts",
+  "bin": {
+    "dharma-db": "./cli.ts"
+  },
+  "scripts": {
+    "import": "bun run cli.ts import",
+    "chunk": "bun run cli.ts chunk",
+    "embed": "bun run cli.ts embed",
+    "build": "bun run cli.ts build",
+    "search": "bun run cli.ts search",
+    "stats": "bun run cli.ts stats",
+    "pipeline": "bun run cli.ts pipeline",
+    "cross-refs": "bun run cli.ts cross-refs",
+    "fts": "bun run cli.ts fts",
+    "rebuild-fts": "bun run cli.ts rebuild-fts",
+    "mcp": "bun run mcp-server.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.24.3",
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

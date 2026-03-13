@@ -1,0 +1,23 @@
+# Large data files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/sources/
+data/raw/
+data/dvarapandita/
+data/mitra-parallel/
+data/stardict/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+*.tsbuildinfo
+.*.bun-build
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files
+bun.lock

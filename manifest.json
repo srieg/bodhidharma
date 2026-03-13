@@ -1,0 +1,16 @@
+{
+  "name": "Bodhidharma Buddhist Knowledge Graph",
+  "short_name": "Bodhidharma",
+  "description": "Interactive knowledge graph of 413 Buddhist philosophical concepts with multilingual terms, definitions, and textual connections",
+  "start_url": "/bodhidharma-knowledge-graph.html",
+  "display": "standalone",
+  "theme_color": "#c9a96e",
+  "background_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230a0a0f'/><path d='M32 8C32 8 26 20 26 32C26 44 32 56 32 56C32 56 38 44 38 32C38 20 32 8 32 8Z' fill='%23c9a96e' opacity='0.6'/><path d='M32 16C32 16 18 22 14 32C10 42 16 52 16 52C16 52 22 42 32 38C42 42 48 52 48 52C48 52 54 42 50 32C46 22 32 16 32 16Z' fill='%23c9a96e' opacity='0.35'/><circle cx='32' cy='32' r='4' fill='%23c9a96e' opacity='0.8'/></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
