@@ -9,7 +9,7 @@
 
 ---
 
-Bodhidharma maps the relational structure of Buddhist philosophy across Theravada, Mahayana, and Vajrayana traditions. Built on a corpus of 11,156 texts (681,543 chunks, 4.6 GB), it extracts 413 philosophical concepts and 472 cross-references into a navigable, force-directed graph --- giving researchers a single interface to trace how ideas like dependent origination, emptiness, and buddha-nature connect, diverge, and transform across canonical and commentarial literature.
+Bodhidharma maps the relational structure of Buddhist philosophy across Theravada, Mahayana, and Vajrayana traditions. Built on a corpus of 11,156 texts (681,543 chunks, 4.6 GB), it extracts 413 philosophical concepts and the cross-references between them into a navigable, force-directed graph --- giving researchers a single interface to trace how ideas like dependent origination, emptiness, and buddha-nature connect, diverge, and transform across canonical and commentarial literature.
 
 **[Live Demo](https://srieg.github.io/bodhidharma/)**
 
