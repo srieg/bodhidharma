@@ -29,7 +29,7 @@ Bodhidharma provides what has been missing: a single, interactive interface wher
 
 ### Knowledge Graph Visualization
 
-- **Force-directed graph** renders all 413 concepts and 472 cross-references as an interactive network
+- **Force-directed graph** renders all 413 concepts and their cross-references as an interactive network
 - **2D mode** with visible labels and fisheye proximity zoom for detailed local exploration
 - **3D mode** for spatial navigation through the full concept space
 - **Fly mode** (3D) --- WASD keyboard navigation lets you move through the graph as a navigable environment
@@ -160,7 +160,7 @@ The underlying corpus comprises **11,156 texts** organized into **681,543 chunks
 
 ### Concept Extraction
 
-The 413 concepts and 472 cross-references were extracted from the corpus through a combination of automated analysis and manual curation, identifying philosophical terms that appear across multiple texts and traditions. Each concept is annotated with:
+The 413 concepts and their cross-references were extracted from the corpus through a combination of automated analysis and manual curation, identifying philosophical terms that appear across multiple texts and traditions. Each concept is annotated with:
 
 - English definition
 - Original-language terms (Sanskrit, Pali, Tibetan, Chinese) where attested
